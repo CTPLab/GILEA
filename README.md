@@ -2,7 +2,7 @@
 Official PyTorch implementation for the following manuscript:
 
 
-[LEA: Latent eigenvalue analysis in application to high-throughput phenotypic profiling](https://www.biorxiv.org/content/10.1101/2023.02.10.528026v1.full.pdf), Biorxiv 2023. \
+[LEA: Latent Eigenvalue Analysis in application to high-throughput phenotypic profiling](https://www.biorxiv.org/content/10.1101/2023.02.10.528026v1.full.pdf), Biorxiv 2023. \
 Jiqing Wu and Viktor H. Koelzer.
 
 > Understanding the phenotypic characteristics of cells in culture and detecting perturbations introduced by drug stimulation is of great importance for biomedical research. However, a thorough and comprehensive analysis of phenotypic heterogeneity is challenged by the complex nature of cell-level data. Here, we propose a novel Latent Eigenvalue Analysis (LEA) framework and apply it to high-throughput phenotypic profiling with single-cell and single-organelle granularity. Using the publicly available SARS-CoV-2 datasets stained with the multiplexed fluorescent cell-painting protocol, we demonstrate the power of the LEA approach in the investigation of phenotypic changes induced by more than 1800 drug compounds. As a result, LEA achieves a robust quantification of phenotypic changes introduced by drug treatment. Moreover, this quantification can be biologically supported by simulating clearly observable phenotypic transitions in a broad spectrum of use cases. Lastly, we describe the LEA pipeline in detail and illustrate the application to further use cases in the biomedical image domain, underlining the domain-agnostic facet of our methodological approach. In conclusion, LEA represents a new and broadly applicable approach for quantitative and interpretable analysis of biomedical image data. 
