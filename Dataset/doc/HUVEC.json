@@ -1,0 +1,7410 @@
+{
+    "healthy": [
+        null,
+        null
+    ],
+    "storm-severe": [
+        null,
+        null
+    ],
+    "Tofacitinib": [
+        0.997732874,
+        null
+    ],
+    "S-Ruxolitinib": [
+        0.985103024,
+        null
+    ],
+    "Golvatinib": [
+        0.981402054,
+        null
+    ],
+    "Ruxolitinib": [
+        0.975463694,
+        null
+    ],
+    "Erdafitinib (JNJ-42756493)": [
+        0.956881328,
+        null
+    ],
+    "Crizotinib": [
+        0.94813274,
+        null
+    ],
+    "alpelisib": [
+        0.93999392,
+        null
+    ],
+    "AZD4547": [
+        0.926951543,
+        null
+    ],
+    "Anethole trithione": [
+        0.923026038,
+        null
+    ],
+    "Benzthiazide": [
+        0.903132868,
+        null
+    ],
+    "R406": [
+        0.891983112,
+        null
+    ],
+    "Baricitinib": [
+        0.877906369,
+        null
+    ],
+    "silibinin": [
+        0.872300928,
+        null
+    ],
+    "tetramisole": [
+        0.871948417,
+        null
+    ],
+    "ethosuximide": [
+        0.867788907,
+        null
+    ],
+    "MGCD-265": [
+        0.853713564,
+        null
+    ],
+    "oxibendazole": [
+        0.849923513,
+        null
+    ],
+    "Cediranib": [
+        0.831533028,
+        null
+    ],
+    "FIIN-2": [
+        0.828020669,
+        null
+    ],
+    "AMG-458": [
+        0.815487551,
+        null
+    ],
+    "tolperisone": [
+        0.80908201,
+        null
+    ],
+    "Cabozantinib": [
+        0.804818981,
+        null
+    ],
+    "Albendazole": [
+        0.803582309,
+        null
+    ],
+    "Flubendazole": [
+        0.803004324,
+        null
+    ],
+    "miltefosine": [
+        0.798278738,
+        null
+    ],
+    "anlotinib": [
+        0.774163443,
+        null
+    ],
+    "BMS-794833": [
+        0.751470543,
+        null
+    ],
+    "Levodopa": [
+        0.73160636,
+        null
+    ],
+    "Peficitinb": [
+        0.729776569,
+        null
+    ],
+    "silmitasertib": [
+        0.725957975,
+        null
+    ],
+    "CH5183284": [
+        0.721508612,
+        null
+    ],
+    "Mebendazole": [
+        0.720335421,
+        null
+    ],
+    "Desoxycorticosterone pivalate": [
+        0.702635115,
+        null
+    ],
+    "PF-04691502": [
+        0.701308475,
+        null
+    ],
+    "GDC-0084": [
+        0.696012304,
+        null
+    ],
+    "GDC-0032": [
+        0.692049041,
+        null
+    ],
+    "Enoximone": [
+        0.688796038,
+        null
+    ],
+    "XL765": [
+        0.680844472,
+        null
+    ],
+    "PF-4989216": [
+        0.677422979,
+        null
+    ],
+    "Tenoxicam": [
+        0.676547259,
+        null
+    ],
+    "Pamapimod": [
+        0.674886296,
+        null
+    ],
+    "dimetridazole": [
+        0.660696569,
+        null
+    ],
+    "propranolol": [
+        0.651760727,
+        null
+    ],
+    "Biperiden": [
+        0.64953963,
+        null
+    ],
+    "BMS-777607": [
+        0.643383426,
+        null
+    ],
+    "Peramivir": [
+        0.640896971,
+        null
+    ],
+    "Sotalol": [
+        0.639982724,
+        null
+    ],
+    "Fostamatinib": [
+        0.638994444,
+        null
+    ],
+    "BIO-acetoxime, CC-4047": [
+        0.630037497,
+        null
+    ],
+    "Ebselen": [
+        0.617148335,
+        null
+    ],
+    "nifurtimox": [
+        0.615951884,
+        null
+    ],
+    "Salmeterol": [
+        0.610908337,
+        null
+    ],
+    "PS-1145": [
+        0.61069008,
+        null
+    ],
+    "Silodosin": [
+        0.60397349,
+        null
+    ],
+    "Lenvatinib": [
+        0.603763335,
+        null
+    ],
+    "rifaximin": [
+        0.601742244,
+        null
+    ],
+    "BMS-582949": [
+        0.601027013,
+        null
+    ],
+    "Pacritinib": [
+        0.598796492,
+        null
+    ],
+    "Peficitinib": [
+        0.586282818,
+        null
+    ],
+    "Tenofovir Disoproxil Fumarate": [
+        0.586169301,
+        null
+    ],
+    "MK-0752": [
+        0.585685529,
+        null
+    ],
+    "Indirubin": [
+        0.580437246,
+        null
+    ],
+    "BMS-536924": [
+        0.579380597,
+        null
+    ],
+    "Fenbendazole": [
+        0.574203267,
+        null
+    ],
+    "Grazoprevir": [
+        0.57211593,
+        null
+    ],
+    "Pergolide": [
+        0.571396016,
+        null
+    ],
+    "Sitagliptin": [
+        0.570070221,
+        null
+    ],
+    "Betrixaban": [
+        0.569220315,
+        null
+    ],
+    "Indirubin-3'-monoxinme": [
+        0.569053676,
+        null
+    ],
+    "Safinamide": [
+        0.564558096,
+        null
+    ],
+    "Cinepazide": [
+        0.561115607,
+        null
+    ],
+    "Dextromethorphan": [
+        0.560014751,
+        null
+    ],
+    "fleroxacin": [
+        0.559174889,
+        null
+    ],
+    "Gilteritinib": [
+        0.556057064,
+        null
+    ],
+    "Ravoxertinib": [
+        0.554600727,
+        null
+    ],
+    "GSK1059615": [
+        0.551823481,
+        null
+    ],
+    "Dimethyl fumarate": [
+        0.550311776,
+        null
+    ],
+    "Tryptophan": [
+        0.548792642,
+        null
+    ],
+    "Mupirocin": [
+        0.545689567,
+        null
+    ],
+    "pralidoxime-chloride": [
+        0.545425071,
+        null
+    ],
+    "Axitinib": [
+        0.540043675,
+        null
+    ],
+    "Asenapine": [
+        0.537340169,
+        null
+    ],
+    "sulfapyridine": [
+        0.535974409,
+        null
+    ],
+    "cholecalciferol": [
+        0.534346531,
+        null
+    ],
+    "enilconazole": [
+        0.533976415,
+        null
+    ],
+    "Dalbavancin": [
+        0.531900528,
+        null
+    ],
+    "Mafenide": [
+        0.53093511,
+        null
+    ],
+    "ajmaline": [
+        0.529448079,
+        null
+    ],
+    "sulfabenzamide": [
+        0.528930638,
+        null
+    ],
+    "Bestatin": [
+        0.527497085,
+        null
+    ],
+    "Propiverine hydrochloride": [
+        0.527377643,
+        null
+    ],
+    "Racecadotril": [
+        0.525656336,
+        null
+    ],
+    "Chlormadinone acetate": [
+        0.525232496,
+        null
+    ],
+    "faropenem": [
+        0.52500469,
+        null
+    ],
+    "Phloretin": [
+        0.524976376,
+        null
+    ],
+    "L-Citrulline": [
+        0.521608041,
+        null
+    ],
+    "Tigecycline": [
+        0.520810238,
+        null
+    ],
+    "Migalastat": [
+        0.519960004,
+        null
+    ],
+    "Tazarotene": [
+        0.519771186,
+        null
+    ],
+    "Amlexanox": [
+        0.518169796,
+        null
+    ],
+    "Cobimetinib": [
+        0.518027661,
+        null
+    ],
+    "fenbufen": [
+        0.517293884,
+        null
+    ],
+    "CEP-33779": [
+        0.511232577,
+        null
+    ],
+    "Desipramine": [
+        0.511160384,
+        null
+    ],
+    "Sulfaphenazole": [
+        0.509285261,
+        null
+    ],
+    "Adapalene": [
+        0.509185543,
+        null
+    ],
+    "Guanfacine": [
+        0.507816967,
+        null
+    ],
+    "Palovarotene": [
+        0.506087947,
+        null
+    ],
+    "chloroxoquinoline": [
+        0.505769616,
+        null
+    ],
+    "Salicylate": [
+        0.50570917,
+        null
+    ],
+    "Dacomitinib": [
+        0.505496677,
+        null
+    ],
+    "Irsogladine": [
+        0.50310037,
+        null
+    ],
+    "Nomegestrol acetate": [
+        0.502262697,
+        null
+    ],
+    "Guanidine": [
+        0.500754227,
+        null
+    ],
+    "Mifepristone": [
+        0.499959479,
+        null
+    ],
+    "ecabet": [
+        0.499732542,
+        null
+    ],
+    "rivaroxaban": [
+        0.499068157,
+        null
+    ],
+    "Duvelisib": [
+        0.497399746,
+        null
+    ],
+    "resorcinol": [
+        0.497039377,
+        null
+    ],
+    "Necrostatin-1": [
+        0.495903673,
+        null
+    ],
+    "sparteine-sulfate": [
+        0.494960523,
+        null
+    ],
+    "fludarabine-phosphate": [
+        0.494246171,
+        null
+    ],
+    "teriflunomide": [
+        0.493081268,
+        null
+    ],
+    "hexaminolevulinate": [
+        0.491800518,
+        null
+    ],
+    "procyclidine": [
+        0.489358068,
+        null
+    ],
+    "chlorthalidone": [
+        0.488084174,
+        null
+    ],
+    "Paroxetine": [
+        0.486808749,
+        null
+    ],
+    "Simeprevir": [
+        0.484898821,
+        null
+    ],
+    "ofloxacin": [
+        0.484114686,
+        null
+    ],
+    "Clopamide": [
+        0.484072715,
+        null
+    ],
+    "levodropropizine": [
+        0.483473135,
+        null
+    ],
+    "GDC-0349": [
+        0.481851239,
+        null
+    ],
+    "zofenopril-calcium": [
+        0.481086384,
+        null
+    ],
+    "Exemestane": [
+        0.4803703,
+        null
+    ],
+    "fludroxycortide": [
+        0.478508506,
+        null
+    ],
+    "Saquinavir": [
+        0.478266804,
+        null
+    ],
+    "AMG 548": [
+        0.478231483,
+        null
+    ],
+    "L-685,458": [
+        0.477831194,
+        null
+    ],
+    "Ozagrel": [
+        0.4775218,
+        null
+    ],
+    "benzonatate": [
+        0.477500091,
+        null
+    ],
+    "Amfenac": [
+        0.477176925,
+        null
+    ],
+    "Ziprasidone": [
+        0.47677296,
+        null
+    ],
+    "AMN 082 dihydrochloride": [
+        0.474493635,
+        null
+    ],
+    "Delavirdine": [
+        0.474362957,
+        null
+    ],
+    "tetrahydrozoline": [
+        0.473498144,
+        null
+    ],
+    "brivudine": [
+        0.473142689,
+        null
+    ],
+    "Rotundine": [
+        0.473142273,
+        null
+    ],
+    "Pomalidomide": [
+        0.472982886,
+        null
+    ],
+    "Clozapine N-oxide": [
+        0.4727664,
+        null
+    ],
+    "Esomeprazole": [
+        0.471586914,
+        null
+    ],
+    "Amorolfine": [
+        0.471256242,
+        null
+    ],
+    "Fenofibric acid": [
+        0.470827044,
+        null
+    ],
+    "Nifenazone": [
+        0.470317473,
+        null
+    ],
+    "4-Aminohippuric acid": [
+        0.46992872,
+        null
+    ],
+    "cefpiramide": [
+        0.469534061,
+        null
+    ],
+    "mephenesin": [
+        0.46938688,
+        null
+    ],
+    "PQ 401": [
+        0.469209381,
+        null
+    ],
+    "cariprazine": [
+        0.467952501,
+        null
+    ],
+    "Ulixertinib": [
+        0.466946609,
+        null
+    ],
+    "Emtricitabine": [
+        0.466644744,
+        null
+    ],
+    "terazosin": [
+        0.46663456,
+        null
+    ],
+    "vinburnine": [
+        0.465153357,
+        null
+    ],
+    "fenigam": [
+        0.464298378,
+        null
+    ],
+    "ML-9": [
+        0.463434488,
+        null
+    ],
+    "Paliperidone": [
+        0.461788612,
+        null
+    ],
+    "Misoprostol": [
+        0.461644581,
+        null
+    ],
+    "Valaciclovir": [
+        0.461383395,
+        null
+    ],
+    "polidocanol": [
+        0.460750342,
+        null
+    ],
+    "1-Octanol": [
+        0.459384734,
+        null
+    ],
+    "Sofosbuvir": [
+        0.458898428,
+        null
+    ],
+    "Didox": [
+        0.455993681,
+        null
+    ],
+    "Levocetirizine": [
+        0.455387035,
+        null
+    ],
+    "arglabin": [
+        0.455240982,
+        null
+    ],
+    "Clebopride": [
+        0.452979134,
+        null
+    ],
+    "Sunitinib": [
+        0.452940502,
+        null
+    ],
+    "Indinavir": [
+        0.451955679,
+        null
+    ],
+    "rosmarinic acid": [
+        0.45127444,
+        null
+    ],
+    "gadodiamide": [
+        0.449965749,
+        null
+    ],
+    "Etofenamate": [
+        0.44940923,
+        null
+    ],
+    "Opicapone": [
+        0.449384028,
+        null
+    ],
+    "Diethylcarbamazine": [
+        0.449031018,
+        null
+    ],
+    "solithromycin": [
+        0.448823082,
+        null
+    ],
+    "naftifine": [
+        0.448343836,
+        null
+    ],
+    "MLN120B": [
+        0.446823061,
+        null
+    ],
+    "vecuronium": [
+        0.446738077,
+        null
+    ],
+    "fruquintinib": [
+        0.445677269,
+        null
+    ],
+    "Selexipag": [
+        0.444152472,
+        null
+    ],
+    "1-Dexoymannojirimycin HCl": [
+        0.444068506,
+        null
+    ],
+    "Ramelteon": [
+        0.444033044,
+        null
+    ],
+    "Medroxyprogesterone": [
+        0.44389212,
+        null
+    ],
+    "Ivabradine": [
+        0.441984146,
+        null
+    ],
+    "netilmicin": [
+        0.441961447,
+        null
+    ],
+    "Darunavir": [
+        0.441014764,
+        null
+    ],
+    "Bromfenac": [
+        0.440645254,
+        null
+    ],
+    "Eplerenone": [
+        0.439606021,
+        null
+    ],
+    "salicylamide": [
+        0.439469423,
+        null
+    ],
+    "amrinone": [
+        0.439145152,
+        null
+    ],
+    "promethazine": [
+        0.4375264,
+        null
+    ],
+    "Acetazolamide": [
+        0.437242259,
+        null
+    ],
+    "ITE": [
+        0.437064554,
+        null
+    ],
+    "Itopride": [
+        0.433882975,
+        null
+    ],
+    "Granisetron hydrochloride": [
+        0.433624164,
+        null
+    ],
+    "Go 6983": [
+        0.432898073,
+        null
+    ],
+    "Carbendazim": [
+        0.431120853,
+        null
+    ],
+    "Estramustine": [
+        0.430380969,
+        null
+    ],
+    "Risperidone": [
+        0.430227688,
+        null
+    ],
+    "Cobicistat": [
+        0.429946975,
+        null
+    ],
+    "Bisoprolol": [
+        0.429914858,
+        null
+    ],
+    "Ralimetinib": [
+        0.428959158,
+        null
+    ],
+    "mofezolac": [
+        0.427858938,
+        null
+    ],
+    "Azelaic acid": [
+        0.427685088,
+        null
+    ],
+    "Capsaicin": [
+        0.427285987,
+        null
+    ],
+    "atovaquone": [
+        0.427232943,
+        null
+    ],
+    "Moxifloxacin": [
+        0.426118563,
+        null
+    ],
+    "alclofenac": [
+        0.425894659,
+        null
+    ],
+    "Linsitinib": [
+        0.42463197,
+        null
+    ],
+    "methylnaltrexone": [
+        0.424545105,
+        null
+    ],
+    "lidoflazine": [
+        0.424006331,
+        null
+    ],
+    "Thiamine": [
+        0.42320879,
+        null
+    ],
+    "CNQX": [
+        0.422344339,
+        null
+    ],
+    "Fluconazole": [
+        0.422286098,
+        null
+    ],
+    "AZD1080": [
+        0.421562093,
+        null
+    ],
+    "dropropizine": [
+        0.421166917,
+        null
+    ],
+    "OSI-420": [
+        0.420829474,
+        null
+    ],
+    "Cefdinir": [
+        0.420231581,
+        null
+    ],
+    "chloroquine": [
+        0.419910573,
+        null
+    ],
+    "abiraterone": [
+        0.419899975,
+        null
+    ],
+    "quinagolide": [
+        0.417959963,
+        null
+    ],
+    "Tiotropium": [
+        0.417630185,
+        null
+    ],
+    "monosodium-alpha-luminol": [
+        0.416862228,
+        null
+    ],
+    "fluocinonide": [
+        0.416248483,
+        null
+    ],
+    "budipine": [
+        0.415799171,
+        null
+    ],
+    "Apatinib": [
+        0.415645888,
+        null
+    ],
+    "mabuterol": [
+        0.415409646,
+        null
+    ],
+    "warfarin": [
+        0.414930281,
+        null
+    ],
+    "beclamide": [
+        0.413784866,
+        null
+    ],
+    "Acotiamide hydrochloride": [
+        0.413103764,
+        null
+    ],
+    "Bosentan": [
+        0.413052766,
+        null
+    ],
+    "MK-2206": [
+        0.412831348,
+        null
+    ],
+    "pravastatin": [
+        0.412828493,
+        null
+    ],
+    "Icotinib": [
+        0.412761766,
+        null
+    ],
+    "Brexpiprazole": [
+        0.411673463,
+        null
+    ],
+    "dienogest": [
+        0.411494918,
+        null
+    ],
+    "Ethionamide": [
+        0.411323659,
+        null
+    ],
+    "Rotigotine": [
+        0.409912412,
+        null
+    ],
+    "tropesin": [
+        0.409204887,
+        null
+    ],
+    "Altretamine": [
+        0.408931366,
+        null
+    ],
+    "ethotoin": [
+        0.408058729,
+        null
+    ],
+    "ceforanide": [
+        0.407822358,
+        null
+    ],
+    "Levobunolol": [
+        0.407673966,
+        null
+    ],
+    "N-acetyl-tyrosine": [
+        0.407281183,
+        null
+    ],
+    "droxidopa": [
+        0.406599483,
+        null
+    ],
+    "7-keto-DHEA": [
+        0.406045788,
+        null
+    ],
+    "Pimavanserin": [
+        0.405741578,
+        null
+    ],
+    "Topiroxostat": [
+        0.405686638,
+        null
+    ],
+    "danazol": [
+        0.403390071,
+        null
+    ],
+    "Amfebutamone": [
+        0.403342225,
+        null
+    ],
+    "MK-2894": [
+        0.40324545,
+        null
+    ],
+    "Cladribine": [
+        0.400860493,
+        null
+    ],
+    "Pridinol": [
+        0.400125098,
+        null
+    ],
+    "Latanoprost": [
+        0.399727897,
+        null
+    ],
+    "Etofibrate": [
+        0.399558792,
+        null
+    ],
+    "cyamemazine": [
+        0.39927175,
+        null
+    ],
+    "Busulfan": [
+        0.399144132,
+        null
+    ],
+    "Sarafloxacin": [
+        0.39899492,
+        null
+    ],
+    "talinolol": [
+        0.398960649,
+        null
+    ],
+    "fosinopril": [
+        0.398546372,
+        null
+    ],
+    "Econazole": [
+        0.397599267,
+        null
+    ],
+    "Azlocillin": [
+        0.396934066,
+        null
+    ],
+    "Entrectinib": [
+        0.396876672,
+        null
+    ],
+    "Mefloquine": [
+        0.396544752,
+        null
+    ],
+    "AZD3463": [
+        0.39584549,
+        null
+    ],
+    "hydroxyprogesterone": [
+        0.395708809,
+        null
+    ],
+    "octinoxate": [
+        0.395645586,
+        null
+    ],
+    "etafenone": [
+        0.394704352,
+        null
+    ],
+    "Silver sulfadiazine": [
+        0.394224686,
+        null
+    ],
+    "Neostigmine": [
+        0.394195556,
+        null
+    ],
+    "mianserin": [
+        0.393569994,
+        null
+    ],
+    "carazolol": [
+        0.392889,
+        null
+    ],
+    "Felodipine": [
+        0.392466562,
+        null
+    ],
+    "oxybenzone": [
+        0.392251556,
+        null
+    ],
+    "Nicotinamide": [
+        0.391646415,
+        null
+    ],
+    "Erlotinib": [
+        0.391460377,
+        null
+    ],
+    "Bacampicillin": [
+        0.390660083,
+        null
+    ],
+    "L-Thyroxine": [
+        0.390331016,
+        null
+    ],
+    "bendazac": [
+        0.390281401,
+        null
+    ],
+    "Zaltoprofen": [
+        0.389998498,
+        null
+    ],
+    "PSI-7976": [
+        0.389731373,
+        null
+    ],
+    "Olsalazine": [
+        0.389390427,
+        null
+    ],
+    "Dextrose": [
+        0.388273341,
+        null
+    ],
+    "Bexarotene": [
+        0.388062847,
+        null
+    ],
+    "Pramiracetam": [
+        0.387703245,
+        null
+    ],
+    "Talipexole": [
+        0.387591255,
+        null
+    ],
+    "BX-795": [
+        0.387205706,
+        null
+    ],
+    "tenofovir": [
+        0.386869164,
+        null
+    ],
+    "regadenoson": [
+        0.386612144,
+        null
+    ],
+    "pyridoxal": [
+        0.386297866,
+        null
+    ],
+    "spaglumic-acid": [
+        0.385521117,
+        null
+    ],
+    "pirlindole": [
+        0.385460089,
+        null
+    ],
+    "Bepotastine": [
+        0.38534473,
+        null
+    ],
+    "Methimazole": [
+        0.38524449,
+        null
+    ],
+    "ipratropium": [
+        0.384850165,
+        null
+    ],
+    "Fenoterol": [
+        0.384437553,
+        null
+    ],
+    "uridine-triacetate": [
+        0.384351177,
+        null
+    ],
+    "Quercetin": [
+        0.384125186,
+        null
+    ],
+    "Diazoxide": [
+        0.383798995,
+        null
+    ],
+    "Pyrilamine": [
+        0.383139229,
+        null
+    ],
+    "Ticagrelor": [
+        0.382878768,
+        null
+    ],
+    "Chenodeoxycholic acid": [
+        0.38218365,
+        null
+    ],
+    "Febuxostat": [
+        0.382031824,
+        null
+    ],
+    "Phentolamine": [
+        0.381954455,
+        null
+    ],
+    "Carbachol": [
+        0.381907447,
+        null
+    ],
+    "Allopurinol riboside": [
+        0.381522672,
+        null
+    ],
+    "morniflumate": [
+        0.381503762,
+        null
+    ],
+    "Vandetanib": [
+        0.381457786,
+        null
+    ],
+    "bendroflumethiazide": [
+        0.381416327,
+        null
+    ],
+    "Divalproex": [
+        0.381297431,
+        null
+    ],
+    "glycerol-monolaurate": [
+        0.380840344,
+        null
+    ],
+    "Idelalisib": [
+        0.380774932,
+        null
+    ],
+    "Acitretin": [
+        0.380662186,
+        null
+    ],
+    "Levoleucovorin": [
+        0.380570952,
+        null
+    ],
+    "Lonafarnib": [
+        0.380552376,
+        null
+    ],
+    "Cephalothin": [
+        0.380445935,
+        null
+    ],
+    "Agomelatine": [
+        0.380354565,
+        null
+    ],
+    "Tacrolimus": [
+        0.379482974,
+        null
+    ],
+    "isradipine": [
+        0.379448678,
+        null
+    ],
+    "Theophylline": [
+        0.3791895,
+        null
+    ],
+    "GSK481": [
+        0.37902026,
+        null
+    ],
+    "Thiazovivin": [
+        0.378587248,
+        null
+    ],
+    "Ensulizole": [
+        0.377975768,
+        null
+    ],
+    "Timolol": [
+        0.37776622,
+        null
+    ],
+    "metaxalone": [
+        0.37775189,
+        null
+    ],
+    "Pyrimethamine": [
+        0.377669526,
+        null
+    ],
+    "EPZ005687": [
+        0.377409244,
+        null
+    ],
+    "Amifampridine": [
+        0.377203978,
+        null
+    ],
+    "Embelin": [
+        0.376932613,
+        null
+    ],
+    "Prochlorperazine": [
+        0.376617043,
+        null
+    ],
+    "pentagastrin": [
+        0.376461406,
+        null
+    ],
+    "tepoxalin": [
+        0.375114124,
+        null
+    ],
+    "Metformin": [
+        0.374688678,
+        null
+    ],
+    "Cilnidipine": [
+        0.374572277,
+        null
+    ],
+    "Pemirolast": [
+        0.374503411,
+        null
+    ],
+    "toloxatone": [
+        0.374286504,
+        null
+    ],
+    "Benznidazole": [
+        0.37368745,
+        null
+    ],
+    "Pazopanib": [
+        0.373504776,
+        null
+    ],
+    "Nafronyl": [
+        0.373432244,
+        null
+    ],
+    "calcifediol": [
+        0.373192611,
+        null
+    ],
+    "Naphazoline": [
+        0.373161386,
+        null
+    ],
+    "Trimetazidine dihydrochloride": [
+        0.372672357,
+        null
+    ],
+    "(-)-Huperzine A (HupA)": [
+        0.372321703,
+        null
+    ],
+    "Ropivacaine": [
+        0.372226076,
+        null
+    ],
+    "evofosfamide": [
+        0.372175895,
+        null
+    ],
+    "Sclareolide": [
+        0.371333287,
+        null
+    ],
+    "Lomerizine": [
+        0.370798172,
+        null
+    ],
+    "mirodenafil": [
+        0.369522863,
+        null
+    ],
+    "ufenamate": [
+        0.369185797,
+        null
+    ],
+    "Aceclofenac": [
+        0.368807057,
+        null
+    ],
+    "Flurizan": [
+        0.368729796,
+        null
+    ],
+    "Acexamic acid": [
+        0.368706842,
+        null
+    ],
+    "Pemetrexed": [
+        0.368546696,
+        null
+    ],
+    "Cridanimod": [
+        0.368528062,
+        null
+    ],
+    "nimorazole": [
+        0.368178001,
+        null
+    ],
+    "Penicillin V": [
+        0.367529548,
+        null
+    ],
+    "tetrabenazine": [
+        0.367491614,
+        null
+    ],
+    "phenolsulfonphthalein": [
+        0.367474869,
+        null
+    ],
+    "Bentiromide": [
+        0.367454642,
+        null
+    ],
+    "josamycin": [
+        0.367333558,
+        null
+    ],
+    "FG-4592": [
+        0.366995375,
+        null
+    ],
+    "afatinib": [
+        0.366122372,
+        null
+    ],
+    "Thymoquinone": [
+        0.365754374,
+        null
+    ],
+    "Afuresertib": [
+        0.365651138,
+        null
+    ],
+    "Ecamsule triethanolamine": [
+        0.365165436,
+        null
+    ],
+    "N-Acetyl-L-cysteine": [
+        0.364708191,
+        null
+    ],
+    "Entacapone": [
+        0.364215294,
+        null
+    ],
+    "trandolapril": [
+        0.364152237,
+        null
+    ],
+    "mepacrine": [
+        0.363947514,
+        null
+    ],
+    "Sulfalene(SMPZ)": [
+        0.363667026,
+        null
+    ],
+    "(+)-cloprostenol": [
+        0.363444294,
+        null
+    ],
+    "Tanshinone IIA sulfonate sodium": [
+        0.363439215,
+        null
+    ],
+    "cloperastine": [
+        0.363426049,
+        null
+    ],
+    "Trimetozine": [
+        0.363341147,
+        null
+    ],
+    "Sivelestat": [
+        0.363226026,
+        null
+    ],
+    "Pramoxine": [
+        0.363034685,
+        null
+    ],
+    "pentostatin": [
+        0.362834282,
+        null
+    ],
+    "5-Aminolevulinic acid": [
+        0.362820178,
+        null
+    ],
+    "4-Chlorophenol": [
+        0.362547719,
+        null
+    ],
+    "Nicardipine": [
+        0.362357164,
+        null
+    ],
+    "Ascorbic acid": [
+        0.362275029,
+        null
+    ],
+    "bupranolol": [
+        0.362064418,
+        null
+    ],
+    "Indacaterol": [
+        0.362023177,
+        null
+    ],
+    "Zalcitabine": [
+        0.362008361,
+        null
+    ],
+    "nalfurafine": [
+        0.361282046,
+        null
+    ],
+    "Alclometasone dipropionate": [
+        0.361048422,
+        null
+    ],
+    "Forodesine": [
+        0.360931015,
+        null
+    ],
+    "Fidaxomicin": [
+        0.360652647,
+        null
+    ],
+    "Linagliptin": [
+        0.360605316,
+        null
+    ],
+    "adefovir": [
+        0.360450355,
+        null
+    ],
+    "Bromantane": [
+        0.360120341,
+        null
+    ],
+    "JSH-23": [
+        0.359939311,
+        null
+    ],
+    "zolimidine": [
+        0.359836387,
+        null
+    ],
+    "Galanthamine": [
+        0.359814278,
+        null
+    ],
+    "Lisinopril": [
+        0.358795967,
+        null
+    ],
+    "Favipiravir": [
+        0.358418029,
+        null
+    ],
+    "Nicergoline": [
+        0.358389367,
+        null
+    ],
+    "Diatrizoic acid": [
+        0.35800281,
+        null
+    ],
+    "Amidopyrine": [
+        0.357800468,
+        null
+    ],
+    "Meloxicam": [
+        0.357568986,
+        null
+    ],
+    "Lopinavir": [
+        0.356310463,
+        null
+    ],
+    "lobenzarit": [
+        0.355949705,
+        null
+    ],
+    "Remdesivir (GS-5734)": [
+        0.355945208,
+        null
+    ],
+    "tulobuterol": [
+        0.355820599,
+        null
+    ],
+    "demecarium": [
+        0.355727869,
+        null
+    ],
+    "Nitisinone": [
+        0.35550796,
+        null
+    ],
+    "Clevudine": [
+        0.355324659,
+        null
+    ],
+    "Alibendol": [
+        0.354088506,
+        null
+    ],
+    "Iloperidone": [
+        0.354017814,
+        null
+    ],
+    "raclopride": [
+        0.354010985,
+        null
+    ],
+    "Butenafine": [
+        0.353847971,
+        null
+    ],
+    "Ritonavir": [
+        0.353609706,
+        null
+    ],
+    "CCT128930": [
+        0.353269888,
+        null
+    ],
+    "Atorvastatin": [
+        0.353265676,
+        null
+    ],
+    "Cerdulatinib": [
+        0.353057742,
+        null
+    ],
+    "Nitazoxanide": [
+        0.353053986,
+        null
+    ],
+    "Doxofylline": [
+        0.353006053,
+        null
+    ],
+    "17-hydroxyprogesterone-caproate": [
+        0.352612587,
+        null
+    ],
+    "SC75741": [
+        0.352457654,
+        null
+    ],
+    "Sildenafil": [
+        0.352241186,
+        null
+    ],
+    "clenbuterol": [
+        0.352115134,
+        null
+    ],
+    "sacubitril": [
+        0.351583007,
+        null
+    ],
+    "phenprocoumon": [
+        0.351327775,
+        null
+    ],
+    "Rufinamide": [
+        0.351027172,
+        null
+    ],
+    "faropenem-medoxomil": [
+        0.350963275,
+        null
+    ],
+    "Nimesulide": [
+        0.3505092,
+        null
+    ],
+    "malic acid": [
+        0.350448907,
+        null
+    ],
+    "(+)-Ephedrine (hydrochloride)": [
+        0.350438117,
+        null
+    ],
+    "Butacaine": [
+        0.350389122,
+        null
+    ],
+    "hyoscyamine": [
+        0.350059096,
+        null
+    ],
+    "Pioglitazone": [
+        0.349693289,
+        null
+    ],
+    "Naratriptan": [
+        0.349596178,
+        null
+    ],
+    "Metoclopramide": [
+        0.349508151,
+        null
+    ],
+    "Azatadine": [
+        0.349349096,
+        null
+    ],
+    "cefepime": [
+        0.349326054,
+        null
+    ],
+    "Polydatin": [
+        0.349001131,
+        null
+    ],
+    "mozavaptan": [
+        0.348610372,
+        null
+    ],
+    "SLx-2119": [
+        0.348451755,
+        null
+    ],
+    "Quinapril": [
+        0.347333723,
+        null
+    ],
+    "monoctanoin": [
+        0.347328222,
+        null
+    ],
+    "Sodium gualenate": [
+        0.347269559,
+        null
+    ],
+    "Trioxsalen": [
+        0.346168566,
+        null
+    ],
+    "Glycopyrrolate": [
+        0.346000478,
+        null
+    ],
+    "Ketanserin": [
+        0.345762352,
+        null
+    ],
+    "Dapsone": [
+        0.345421277,
+        null
+    ],
+    "pantoprazole": [
+        0.345298266,
+        null
+    ],
+    "Rosuvastatin": [
+        0.345150171,
+        null
+    ],
+    "Folinic acid": [
+        0.34477912,
+        null
+    ],
+    "TG101348": [
+        0.344732512,
+        null
+    ],
+    "NS-1643": [
+        0.344528996,
+        null
+    ],
+    "Ropinirole": [
+        0.344507824,
+        null
+    ],
+    "tavaborole": [
+        0.344164163,
+        null
+    ],
+    "Toltrazuril": [
+        0.344144606,
+        null
+    ],
+    "Ticlopidine": [
+        0.343842641,
+        null
+    ],
+    "selamectin": [
+        0.343757052,
+        null
+    ],
+    "Pramipexole": [
+        0.34290494,
+        null
+    ],
+    "Hexylresorcinol": [
+        0.342865459,
+        null
+    ],
+    "simvastatin": [
+        0.342800348,
+        null
+    ],
+    "Leflunomide": [
+        0.342684059,
+        null
+    ],
+    "Gefitinib": [
+        0.342579472,
+        null
+    ],
+    "Fexaramine": [
+        0.342206083,
+        null
+    ],
+    "Flunixin meglumin": [
+        0.341855362,
+        null
+    ],
+    "phenprobamate": [
+        0.341177536,
+        null
+    ],
+    "Dolutegravir": [
+        0.340804745,
+        null
+    ],
+    "Midodrine": [
+        0.340495984,
+        null
+    ],
+    "Trospium": [
+        0.340491303,
+        null
+    ],
+    "Amoxapine": [
+        0.340441447,
+        null
+    ],
+    "Folic acid": [
+        0.340397944,
+        null
+    ],
+    "Diosmetin": [
+        0.339577484,
+        null
+    ],
+    "metacresol": [
+        0.339440078,
+        null
+    ],
+    "bethanechol": [
+        0.339179795,
+        null
+    ],
+    "cloxacillin": [
+        0.339108999,
+        null
+    ],
+    "Gliclazide": [
+        0.338194644,
+        null
+    ],
+    "Erythromycin": [
+        0.337352162,
+        null
+    ],
+    "cimetropium": [
+        0.337008342,
+        null
+    ],
+    "Idebenone": [
+        0.336630457,
+        null
+    ],
+    "Triclabendazole": [
+        0.336548798,
+        null
+    ],
+    "Prednisone": [
+        0.336433413,
+        null
+    ],
+    "Apixaban": [
+        0.335772637,
+        null
+    ],
+    "Marbofloxacin": [
+        0.335770708,
+        null
+    ],
+    "barnidipine": [
+        0.335745304,
+        null
+    ],
+    "BTK IN-1": [
+        0.335555733,
+        null
+    ],
+    "rifampin": [
+        0.335401975,
+        null
+    ],
+    "fosphenytoin": [
+        0.335004143,
+        null
+    ],
+    "ergonovine": [
+        0.335000937,
+        null
+    ],
+    "Voxelotor": [
+        0.334821474,
+        null
+    ],
+    "cleviprex": [
+        0.333665223,
+        null
+    ],
+    "pindolol": [
+        0.33319412,
+        null
+    ],
+    "Zilpaterol": [
+        0.332443775,
+        null
+    ],
+    "Prazosin": [
+        0.331961877,
+        null
+    ],
+    "nedocromil": [
+        0.331511567,
+        null
+    ],
+    "methsuximide": [
+        0.331130435,
+        null
+    ],
+    "Talmapimod": [
+        0.330520145,
+        null
+    ],
+    "Lornoxicam": [
+        0.330440223,
+        null
+    ],
+    "Droperidol": [
+        0.330099686,
+        null
+    ],
+    "Sabutoclax": [
+        0.328737584,
+        null
+    ],
+    "azithromycin": [
+        0.32866896,
+        null
+    ],
+    "chlorotrianisene": [
+        0.328546451,
+        null
+    ],
+    "Aloxistatin": [
+        0.328444103,
+        null
+    ],
+    "Clinofibrate": [
+        0.327961344,
+        null
+    ],
+    "Spiramycin": [
+        0.327874124,
+        null
+    ],
+    "pralidoxime": [
+        0.327675871,
+        null
+    ],
+    "isometheptene-mucate": [
+        0.327399875,
+        null
+    ],
+    "Nebivolol HCl": [
+        0.327214922,
+        null
+    ],
+    "Azaperone": [
+        0.326690484,
+        null
+    ],
+    "Nylidrin": [
+        0.326671506,
+        null
+    ],
+    "betazole": [
+        0.326649048,
+        null
+    ],
+    "Torsemide": [
+        0.326018327,
+        null
+    ],
+    "adrafinil": [
+        0.325989494,
+        null
+    ],
+    "norethisterone-enanthate": [
+        0.325829458,
+        null
+    ],
+    "Olopatadine": [
+        0.325690499,
+        null
+    ],
+    "viloxazine": [
+        0.325461724,
+        null
+    ],
+    "Ipratropium": [
+        0.32527675,
+        null
+    ],
+    "Acalabrutinib": [
+        0.3250826,
+        null
+    ],
+    "Chloroguanide": [
+        0.325003412,
+        null
+    ],
+    "nadifloxacin": [
+        0.324122696,
+        null
+    ],
+    "Triflusal": [
+        0.324116658,
+        null
+    ],
+    "paritaprevir": [
+        0.324094796,
+        null
+    ],
+    "secnidazole": [
+        0.324048154,
+        null
+    ],
+    "SCMC-Lys": [
+        0.323955867,
+        null
+    ],
+    "mupirocin": [
+        0.323943018,
+        null
+    ],
+    "4-Biphenylacetic acid": [
+        0.323888747,
+        null
+    ],
+    "hemomex-s": [
+        0.32276255,
+        null
+    ],
+    "Almotriptan": [
+        0.3226234,
+        null
+    ],
+    "homatropine-methylbromide": [
+        0.322597227,
+        null
+    ],
+    "Dihydroergocristine mesylate": [
+        0.322452774,
+        null
+    ],
+    "Indeloxazine Hydrochloride": [
+        0.322441029,
+        null
+    ],
+    "enrofloxacin": [
+        0.322208126,
+        null
+    ],
+    "landiolol": [
+        0.322103233,
+        null
+    ],
+    "(R)-baclofen": [
+        0.321889024,
+        null
+    ],
+    "trimipramine": [
+        0.321820191,
+        null
+    ],
+    "piperazine": [
+        0.321669295,
+        null
+    ],
+    "Canagliflozin": [
+        0.321617303,
+        null
+    ],
+    "Candesartan cilexetil": [
+        0.321304176,
+        null
+    ],
+    "disopyramide": [
+        0.320818534,
+        null
+    ],
+    "Telbivudine": [
+        0.320184816,
+        null
+    ],
+    "hexylcaine": [
+        0.32016483,
+        null
+    ],
+    "Nitromide": [
+        0.319847946,
+        null
+    ],
+    "Etodolac": [
+        0.318922302,
+        null
+    ],
+    "eugenol": [
+        0.318862557,
+        null
+    ],
+    "Candesartan": [
+        0.31884428,
+        null
+    ],
+    "stetaderm": [
+        0.318583599,
+        null
+    ],
+    "Tafenoquine succinate": [
+        0.318412451,
+        null
+    ],
+    "Thimerosal": [
+        0.318181653,
+        null
+    ],
+    "Quizartinib": [
+        0.318079723,
+        null
+    ],
+    "carglumic-acid": [
+        0.317980876,
+        null
+    ],
+    "methacholine": [
+        0.317669164,
+        null
+    ],
+    "Enasidenib": [
+        0.317389437,
+        null
+    ],
+    "L-Glutamic Acid": [
+        0.316830357,
+        null
+    ],
+    "ethynodiol-diacetate": [
+        0.31668618,
+        null
+    ],
+    "Obeticholic acid": [
+        0.316586568,
+        null
+    ],
+    "Cromolyn": [
+        0.316010126,
+        null
+    ],
+    "Xipamide": [
+        0.31595714,
+        null
+    ],
+    "D-Serine": [
+        0.315525023,
+        null
+    ],
+    "Norfloxacin": [
+        0.31548766,
+        null
+    ],
+    "acetylcysteine": [
+        0.31543192,
+        null
+    ],
+    "Cephapirin Benzathine": [
+        0.315238735,
+        null
+    ],
+    "ursodiol": [
+        0.314988587,
+        null
+    ],
+    "Difloxacin": [
+        0.314847801,
+        null
+    ],
+    "doramectin": [
+        0.314545288,
+        null
+    ],
+    "Azasetron": [
+        0.314457375,
+        null
+    ],
+    "buclizine": [
+        0.314389763,
+        null
+    ],
+    "Tiapride": [
+        0.314172364,
+        null
+    ],
+    "Moclobemide": [
+        0.31398984,
+        null
+    ],
+    "Metyrapone": [
+        0.313592974,
+        null
+    ],
+    "flumecinol": [
+        0.313572539,
+        null
+    ],
+    "sapropterin": [
+        0.31291368,
+        null
+    ],
+    "Acarbose": [
+        0.312671956,
+        null
+    ],
+    "Mebhydrolin": [
+        0.31246255,
+        null
+    ],
+    "Duloxetine": [
+        0.312416044,
+        null
+    ],
+    "sucralose": [
+        0.312280681,
+        null
+    ],
+    "Tiagabine": [
+        0.312179744,
+        null
+    ],
+    "Laropiprant": [
+        0.311309423,
+        null
+    ],
+    "Gabexate": [
+        0.310868081,
+        null
+    ],
+    "Empagliflozin": [
+        0.310746835,
+        null
+    ],
+    "Cytarabine": [
+        0.31014123,
+        null
+    ],
+    "alprenolol": [
+        0.3090017,
+        null
+    ],
+    "Riluzole": [
+        0.30895005,
+        null
+    ],
+    "Benazepril": [
+        0.308578106,
+        null
+    ],
+    "Bephenium hydroxynaphthoate": [
+        0.308539127,
+        null
+    ],
+    "lactulose": [
+        0.308183538,
+        null
+    ],
+    "Kinetin": [
+        0.307750216,
+        null
+    ],
+    "phloroglucin": [
+        0.307283081,
+        null
+    ],
+    "thalidomide": [
+        0.30708379,
+        null
+    ],
+    "Meglumine": [
+        0.306641164,
+        null
+    ],
+    "piperacetazine": [
+        0.306448174,
+        null
+    ],
+    "Didanosine": [
+        0.306444665,
+        null
+    ],
+    "Plerixafor": [
+        0.306204509,
+        null
+    ],
+    "Methoxamine": [
+        0.306048806,
+        null
+    ],
+    "Pazufloxacin mesylate": [
+        0.305933241,
+        null
+    ],
+    "Rovamycin": [
+        0.305616718,
+        null
+    ],
+    "Nabumetone": [
+        0.3054971,
+        null
+    ],
+    "Sotagliflozin": [
+        0.305480954,
+        null
+    ],
+    "voglibose": [
+        0.305125087,
+        null
+    ],
+    "Sulfadoxine": [
+        0.304866222,
+        null
+    ],
+    "propafenone": [
+        0.30455465,
+        null
+    ],
+    "deracoxib": [
+        0.304490618,
+        null
+    ],
+    "tiquizium": [
+        0.304326374,
+        null
+    ],
+    "Anisotropine methylbromide": [
+        0.304221657,
+        null
+    ],
+    "telmesteine": [
+        0.304113955,
+        null
+    ],
+    "hesperidin": [
+        0.304098643,
+        null
+    ],
+    "retinaldehyde": [
+        0.304092308,
+        null
+    ],
+    "Loxapine": [
+        0.303789118,
+        null
+    ],
+    "timonacic": [
+        0.303323496,
+        null
+    ],
+    "enisamium": [
+        0.302789544,
+        null
+    ],
+    "Oxybutynin": [
+        0.302583626,
+        null
+    ],
+    "lodoxamide": [
+        0.302320803,
+        null
+    ],
+    "Thiocolchicoside": [
+        0.301691925,
+        null
+    ],
+    "Tecovirimat": [
+        0.301522409,
+        null
+    ],
+    "Nintedanib": [
+        0.301317235,
+        null
+    ],
+    "Erismodegib": [
+        0.301261118,
+        null
+    ],
+    "oxfendazole": [
+        0.30094497,
+        null
+    ],
+    "Bremelanotide (Acetate)": [
+        0.300845379,
+        null
+    ],
+    "phenacemide": [
+        0.300757115,
+        null
+    ],
+    "Penciclovir": [
+        0.30051717,
+        null
+    ],
+    "ethenzamide": [
+        0.300303591,
+        null
+    ],
+    "clomethiazole": [
+        0.300052334,
+        null
+    ],
+    "ethacizin": [
+        0.300017398,
+        null
+    ],
+    "Bimatoprost": [
+        0.299958354,
+        null
+    ],
+    "verapamil": [
+        0.299853717,
+        null
+    ],
+    "Picosulfate": [
+        0.299802041,
+        null
+    ],
+    "Rifamycin SV": [
+        0.299748016,
+        null
+    ],
+    "Levosimendan": [
+        0.29940832,
+        null
+    ],
+    "hydroflumethiazide": [
+        0.299282331,
+        null
+    ],
+    "Methicillin": [
+        0.299199133,
+        null
+    ],
+    "4-Methylbenzylidene camphor": [
+        0.298893353,
+        null
+    ],
+    "Naftopidil": [
+        0.298879998,
+        null
+    ],
+    "cis-9,trans-11-Conjugated-linoleic-acid": [
+        0.29887806,
+        null
+    ],
+    "Doramapimod": [
+        0.298133388,
+        null
+    ],
+    "Aztreonam": [
+        0.297940623,
+        null
+    ],
+    "acenocoumarol": [
+        0.297873938,
+        null
+    ],
+    "pimobendan": [
+        0.297739417,
+        null
+    ],
+    "Sulfacetamide": [
+        0.297495087,
+        null
+    ],
+    "manidipine": [
+        0.297348851,
+        null
+    ],
+    "MNS": [
+        0.296947272,
+        null
+    ],
+    "Norgestrel": [
+        0.296722337,
+        null
+    ],
+    "orphenadrine": [
+        0.296629552,
+        null
+    ],
+    "Sumatriptan": [
+        0.296372468,
+        null
+    ],
+    "Tizanidine": [
+        0.29618381,
+        null
+    ],
+    "Curcumin, Diferuloylmethane": [
+        0.296105008,
+        null
+    ],
+    "Flumazenil": [
+        0.29580118,
+        null
+    ],
+    "Clopidogrel": [
+        0.295545309,
+        null
+    ],
+    "5-Fluorouracil": [
+        0.294937301,
+        null
+    ],
+    "Edaravone": [
+        0.294446837,
+        null
+    ],
+    "Stavudine (d4T)": [
+        0.294442259,
+        null
+    ],
+    "Rilmenidine": [
+        0.293929667,
+        null
+    ],
+    "Clarithromycin": [
+        0.293753412,
+        null
+    ],
+    "fexinidazole": [
+        0.293170525,
+        null
+    ],
+    "Ipatasertib": [
+        0.293094316,
+        null
+    ],
+    "Piroxicam": [
+        0.292912066,
+        null
+    ],
+    "edoxudine": [
+        0.292305006,
+        null
+    ],
+    "indoramin": [
+        0.292069458,
+        null
+    ],
+    "rimantadine": [
+        0.291880712,
+        null
+    ],
+    "Detomidine": [
+        0.291802866,
+        null
+    ],
+    "Topiramate": [
+        0.291797765,
+        null
+    ],
+    "isodibut": [
+        0.291620625,
+        null
+    ],
+    "flupentixol": [
+        0.291360405,
+        null
+    ],
+    "azosemide": [
+        0.291356896,
+        null
+    ],
+    "albuterol": [
+        0.291215816,
+        null
+    ],
+    "ibuprofen": [
+        0.290976549,
+        null
+    ],
+    "SC79": [
+        0.290913197,
+        null
+    ],
+    "Scopine": [
+        0.290544382,
+        null
+    ],
+    "Ethinyl estradiol": [
+        0.29037462,
+        null
+    ],
+    "Miglitol": [
+        0.290092615,
+        null
+    ],
+    "Tamsulosin": [
+        0.290085962,
+        null
+    ],
+    "Famotidine": [
+        0.290003611,
+        null
+    ],
+    "Apricitabine": [
+        0.289996883,
+        null
+    ],
+    "Ketoprofen": [
+        0.289891395,
+        null
+    ],
+    "propoxycaine": [
+        0.289778612,
+        null
+    ],
+    "Haloperidol": [
+        0.289758739,
+        null
+    ],
+    "bucillamine": [
+        0.289645353,
+        null
+    ],
+    "dexamethasone sodium phosphate": [
+        0.28895574,
+        null
+    ],
+    "Ribavirin": [
+        0.288950496,
+        null
+    ],
+    "2-hydroxyethyl-salicylate": [
+        0.288936305,
+        null
+    ],
+    "pamoic acid": [
+        0.288889185,
+        null
+    ],
+    "Niraparib": [
+        0.288823426,
+        null
+    ],
+    "Binimetinib": [
+        0.288756265,
+        null
+    ],
+    "Levodropropizine": [
+        0.288625706,
+        null
+    ],
+    "Moexipril": [
+        0.288278542,
+        null
+    ],
+    "fenoverine": [
+        0.288245524,
+        null
+    ],
+    "BAF312": [
+        0.288080112,
+        null
+    ],
+    "Acepromazine": [
+        0.287642477,
+        null
+    ],
+    "rosuvastatin": [
+        0.287313571,
+        null
+    ],
+    "Piperaquine phosphate": [
+        0.287280194,
+        null
+    ],
+    "chlorcyclizine": [
+        0.286982524,
+        null
+    ],
+    "Flavoxate": [
+        0.286804339,
+        null
+    ],
+    "1-(3,4-diethoxybenzyl)-6,7-diethoxy-3,4-dihydroisoquinoline": [
+        0.286439915,
+        null
+    ],
+    "paricalcitol": [
+        0.286353032,
+        null
+    ],
+    "Oseltamivir carboxylate": [
+        0.286215659,
+        null
+    ],
+    "Cortisone": [
+        0.285808973,
+        null
+    ],
+    "Edrophonium": [
+        0.285603066,
+        null
+    ],
+    "hycanthone": [
+        0.284782962,
+        null
+    ],
+    "dutasteride": [
+        0.284447996,
+        null
+    ],
+    "retapamulin": [
+        0.284428581,
+        null
+    ],
+    "dapagliflozin": [
+        0.284299703,
+        null
+    ],
+    "physostigmine": [
+        0.284070852,
+        null
+    ],
+    "Parecoxib": [
+        0.283595748,
+        null
+    ],
+    "narasin": [
+        0.282429089,
+        null
+    ],
+    "Baloxavir marboxil": [
+        0.282037227,
+        null
+    ],
+    "fenoprofen": [
+        0.281894339,
+        null
+    ],
+    "AZD5363": [
+        0.281822403,
+        null
+    ],
+    "Zanamivir": [
+        0.281556919,
+        null
+    ],
+    "Erythromycin ethylsuccinate": [
+        0.281341671,
+        null
+    ],
+    "chlorphenesin": [
+        0.281247642,
+        null
+    ],
+    "Eprazinone": [
+        0.2808236,
+        null
+    ],
+    "Amoxicillin Sodium, Amoxycillin": [
+        0.280725338,
+        null
+    ],
+    "Clofoctol": [
+        0.280572685,
+        null
+    ],
+    "Hydrocortisone acetate": [
+        0.280502465,
+        null
+    ],
+    "tilmicosin": [
+        0.280248189,
+        null
+    ],
+    "Ornidazole": [
+        0.279644719,
+        null
+    ],
+    "nateglinide": [
+        0.279147932,
+        null
+    ],
+    "Nitarsone": [
+        0.279097999,
+        null
+    ],
+    "eperisone": [
+        0.278667886,
+        null
+    ],
+    "Methysticin": [
+        0.278371255,
+        null
+    ],
+    "Lenalidomide": [
+        0.278126004,
+        null
+    ],
+    "alvimopan": [
+        0.27768601,
+        null
+    ],
+    "lurasidone": [
+        0.277517944,
+        null
+    ],
+    "metirosine": [
+        0.277023586,
+        null
+    ],
+    "pidolic-acid": [
+        0.276780874,
+        null
+    ],
+    "osimertinib": [
+        0.276442759,
+        null
+    ],
+    "Acemetacin": [
+        0.276164596,
+        null
+    ],
+    "diosmin": [
+        0.27581993,
+        null
+    ],
+    "Penicillin G": [
+        0.275631603,
+        null
+    ],
+    "VX-11e": [
+        0.275099815,
+        null
+    ],
+    "Piracetam": [
+        0.275024353,
+        null
+    ],
+    "Ipriflavone": [
+        0.274807071,
+        null
+    ],
+    "Azathioprine": [
+        0.27480189,
+        null
+    ],
+    "tegaserod": [
+        0.274346523,
+        null
+    ],
+    "dipivefrine": [
+        0.274084299,
+        null
+    ],
+    "Phenytoin": [
+        0.273973658,
+        null
+    ],
+    "Acyclovir": [
+        0.273729408,
+        null
+    ],
+    "gestrinone": [
+        0.273508152,
+        null
+    ],
+    "dydrogesterone": [
+        0.272928474,
+        null
+    ],
+    "dasabuvir": [
+        0.272769683,
+        null
+    ],
+    "Metrizoic acid": [
+        0.272563884,
+        null
+    ],
+    "benserazide": [
+        0.272416514,
+        null
+    ],
+    "Methotrexate": [
+        0.272354174,
+        null
+    ],
+    "Cinoxacin": [
+        0.272240232,
+        null
+    ],
+    "Omadacycline": [
+        0.271671358,
+        null
+    ],
+    "mezlocillin": [
+        0.271505827,
+        null
+    ],
+    "Thioctic acid": [
+        0.271362755,
+        null
+    ],
+    "Ganciclovir": [
+        0.270801349,
+        null
+    ],
+    "L-methionine": [
+        0.270607867,
+        null
+    ],
+    "Vismodegib": [
+        0.270417376,
+        null
+    ],
+    "sitafloxacin": [
+        0.270319353,
+        null
+    ],
+    "Brinzolamide": [
+        0.270082583,
+        null
+    ],
+    "setiptiline": [
+        0.269985749,
+        null
+    ],
+    "Fimasartan": [
+        0.269400992,
+        null
+    ],
+    "bunazosin": [
+        0.269128151,
+        null
+    ],
+    "Piribedil": [
+        0.269111073,
+        null
+    ],
+    "cefetamet-pivoxil": [
+        0.268991597,
+        null
+    ],
+    "tosufloxacin": [
+        0.268690784,
+        null
+    ],
+    "buparvaquone": [
+        0.268508477,
+        null
+    ],
+    "Teneligliptin": [
+        0.268168585,
+        null
+    ],
+    "Perphenazine": [
+        0.268148441,
+        null
+    ],
+    "todralazine": [
+        0.268030389,
+        null
+    ],
+    "4-Aminobenzoic acid": [
+        0.26782561,
+        null
+    ],
+    "Mesalamine": [
+        0.266973184,
+        null
+    ],
+    "Efinaconazole": [
+        0.266754164,
+        null
+    ],
+    "Mesoridazine": [
+        0.266534891,
+        null
+    ],
+    "Hesperetin": [
+        0.26650827,
+        null
+    ],
+    "Luliconazole": [
+        0.266019606,
+        null
+    ],
+    "Gabapentin": [
+        0.265450404,
+        null
+    ],
+    "ceftibuten": [
+        0.264730527,
+        null
+    ],
+    "Trazodone": [
+        0.264398268,
+        null
+    ],
+    "beclomethasone": [
+        0.264344287,
+        null
+    ],
+    "R-Selegiline": [
+        0.264037124,
+        null
+    ],
+    "Gatifloxacin": [
+        0.263884363,
+        null
+    ],
+    "acetyl-l-leucine": [
+        0.263423357,
+        null
+    ],
+    "Rifampin": [
+        0.263009668,
+        null
+    ],
+    "Pyrithioxin": [
+        0.262699999,
+        null
+    ],
+    "Rosiglitazone": [
+        0.262150851,
+        null
+    ],
+    "trihexyphenidyl": [
+        0.262113279,
+        null
+    ],
+    "pipamperone": [
+        0.261802494,
+        null
+    ],
+    "methylprednisolone": [
+        0.261788835,
+        null
+    ],
+    "Pimethixene": [
+        0.261690301,
+        null
+    ],
+    "oxyfedrine": [
+        0.26146994,
+        null
+    ],
+    "guanadrel": [
+        0.260919689,
+        null
+    ],
+    "Oxcarbazepine": [
+        0.260536702,
+        null
+    ],
+    "prasugrel": [
+        0.260531022,
+        null
+    ],
+    "Moxonidine": [
+        0.259999227,
+        null
+    ],
+    "Boceprevir": [
+        0.259699832,
+        null
+    ],
+    "Minocycline": [
+        0.259493931,
+        null
+    ],
+    "fosfosal": [
+        0.259130861,
+        null
+    ],
+    "Obatoclax": [
+        0.25835982,
+        null
+    ],
+    "Amodiaquine": [
+        0.257972859,
+        null
+    ],
+    "Prucalopride": [
+        0.257935356,
+        null
+    ],
+    "NPS-1034": [
+        0.257778661,
+        null
+    ],
+    "Tolcapone": [
+        0.257533947,
+        null
+    ],
+    "tocainide": [
+        0.256708189,
+        null
+    ],
+    "Triclocarban": [
+        0.256563656,
+        null
+    ],
+    "Anastrozole": [
+        0.256418626,
+        null
+    ],
+    "carprofen": [
+        0.25639511,
+        null
+    ],
+    "metrizamide": [
+        0.255731339,
+        null
+    ],
+    "Dirithromycin": [
+        0.25567382,
+        null
+    ],
+    "Tolvaptan": [
+        0.254982489,
+        null
+    ],
+    "Tiaprofenic acid": [
+        0.254783104,
+        null
+    ],
+    "ARN-509": [
+        0.254771787,
+        null
+    ],
+    "Linezolid": [
+        0.254611014,
+        null
+    ],
+    "Ligustrazine hydrochloride": [
+        0.254594397,
+        null
+    ],
+    "gemifloxacin": [
+        0.254370893,
+        null
+    ],
+    "Zotepine": [
+        0.254345742,
+        null
+    ],
+    "melevodopa": [
+        0.254227395,
+        null
+    ],
+    "quinestrol": [
+        0.254123613,
+        null
+    ],
+    "Methenamine": [
+        0.253943277,
+        null
+    ],
+    "Chlorpropamide": [
+        0.253809889,
+        null
+    ],
+    "moxidectin": [
+        0.253809419,
+        null
+    ],
+    "Levamisole": [
+        0.25369496,
+        null
+    ],
+    "sertraline": [
+        0.253521752,
+        null
+    ],
+    "fluorometholone": [
+        0.253517212,
+        null
+    ],
+    "cefmenoxime": [
+        0.253318065,
+        null
+    ],
+    "difenpiramide": [
+        0.253288042,
+        null
+    ],
+    "miconazole": [
+        0.253115418,
+        null
+    ],
+    "(R)-Tegafur": [
+        0.252933296,
+        null
+    ],
+    "fexofenadine": [
+        0.252921011,
+        null
+    ],
+    "frovatriptan": [
+        0.252684522,
+        null
+    ],
+    "Etofylline": [
+        0.252180405,
+        null
+    ],
+    "Efonidipine": [
+        0.251956518,
+        null
+    ],
+    "dehydroepiandrosterone-sulfate": [
+        0.251886785,
+        null
+    ],
+    "Atazanavir": [
+        0.251774925,
+        null
+    ],
+    "Lesinurad": [
+        0.251761433,
+        null
+    ],
+    "Mesna": [
+        0.251733885,
+        null
+    ],
+    "levomepromazine": [
+        0.25161438,
+        null
+    ],
+    "Carteolol": [
+        0.250977203,
+        null
+    ],
+    "Tacrine": [
+        0.250972858,
+        null
+    ],
+    "Phenylbutyrate": [
+        0.250824299,
+        null
+    ],
+    "Ambrisentan": [
+        0.250707738,
+        null
+    ],
+    "hydroxyzine": [
+        0.250490337,
+        null
+    ],
+    "levocabastine": [
+        0.250418935,
+        null
+    ],
+    "Cysteamine": [
+        0.250152479,
+        null
+    ],
+    "ketorolac": [
+        0.250001111,
+        null
+    ],
+    "dosulepin": [
+        0.249990456,
+        null
+    ],
+    "Clomipramine": [
+        0.249947903,
+        null
+    ],
+    "isoleucine": [
+        0.249947216,
+        null
+    ],
+    "ODM-201": [
+        0.249920833,
+        null
+    ],
+    "Sulindac": [
+        0.249918458,
+        null
+    ],
+    "Clindamycin Phosphate": [
+        0.249831674,
+        null
+    ],
+    "Aceglutamide": [
+        0.249588044,
+        null
+    ],
+    "Decitabine": [
+        0.249173811,
+        null
+    ],
+    "Danofloxacin mesylate": [
+        0.249079858,
+        null
+    ],
+    "delapril": [
+        0.248641225,
+        null
+    ],
+    "Lamotrigine": [
+        0.248547639,
+        null
+    ],
+    "Actarit": [
+        0.248403906,
+        null
+    ],
+    "bevantolol": [
+        0.248325034,
+        null
+    ],
+    "Levetiracetam": [
+        0.248246428,
+        null
+    ],
+    "BMY 45778": [
+        0.248198101,
+        null
+    ],
+    "eflornithine": [
+        0.247917579,
+        null
+    ],
+    "secalciferol": [
+        0.247629797,
+        null
+    ],
+    "Clozapine": [
+        0.247618786,
+        null
+    ],
+    "Fasudil": [
+        0.247604738,
+        null
+    ],
+    "Ciprofloxacin": [
+        0.247431286,
+        null
+    ],
+    "Eravacycline (dihydrochloride)": [
+        0.247308207,
+        null
+    ],
+    "Diacerein": [
+        0.247202306,
+        null
+    ],
+    "maxacalcitol": [
+        0.247158596,
+        null
+    ],
+    "Efavirenz": [
+        0.24706474,
+        null
+    ],
+    "Fluphenazine": [
+        0.247027023,
+        null
+    ],
+    "Pirenzepine": [
+        0.246718602,
+        null
+    ],
+    "Gemfibrozil": [
+        0.246718593,
+        null
+    ],
+    "closantel": [
+        0.246206284,
+        null
+    ],
+    "Besifloxacin": [
+        0.245838708,
+        null
+    ],
+    "SDZ-220-581": [
+        0.24558054,
+        null
+    ],
+    "Tinidazole": [
+        0.245470492,
+        null
+    ],
+    "methylprednisolone-sodium-succinate": [
+        0.245458454,
+        null
+    ],
+    "Fingolimod": [
+        0.24543032,
+        null
+    ],
+    "norgestrel": [
+        0.245227477,
+        null
+    ],
+    "Sertaconazole": [
+        0.245191423,
+        null
+    ],
+    "bupivacaine": [
+        0.245021955,
+        null
+    ],
+    "Acetohexamide": [
+        0.244738908,
+        null
+    ],
+    "ciprofibrate": [
+        0.244647664,
+        null
+    ],
+    "Levosulpiride": [
+        0.244539934,
+        null
+    ],
+    "Vemurafenib": [
+        0.244097282,
+        null
+    ],
+    "Oxeladin": [
+        0.243849918,
+        null
+    ],
+    "Cilazapril": [
+        0.243665371,
+        null
+    ],
+    "Niclosamide": [
+        0.243558115,
+        null
+    ],
+    "etilefrine": [
+        0.243437927,
+        null
+    ],
+    "Diphemanil": [
+        0.243252251,
+        null
+    ],
+    "perchlozone": [
+        0.243011548,
+        null
+    ],
+    "homatropine": [
+        0.242687376,
+        null
+    ],
+    "aminolevulinic-acid-benzyl-ester": [
+        0.242365695,
+        null
+    ],
+    "Palomid 529 (P529)": [
+        0.241778838,
+        null
+    ],
+    "Theophylline-7-acetic acid": [
+        0.241743047,
+        null
+    ],
+    "Imidafenacin": [
+        0.241721102,
+        null
+    ],
+    "cabergoline": [
+        0.241422191,
+        null
+    ],
+    "bempedoic acid": [
+        0.241343695,
+        null
+    ],
+    "Levamlodipine": [
+        0.240720082,
+        null
+    ],
+    "SIN-1 chloride": [
+        0.240565789,
+        null
+    ],
+    "Propoxur": [
+        0.24056553,
+        null
+    ],
+    "Vidarabine": [
+        0.240517801,
+        null
+    ],
+    "iohexol": [
+        0.240440018,
+        null
+    ],
+    "Enalapril": [
+        0.240324239,
+        null
+    ],
+    "Celecoxib": [
+        0.239876458,
+        null
+    ],
+    "Gallamine": [
+        0.239138034,
+        null
+    ],
+    "Isosorbide mononitrate": [
+        0.238794186,
+        null
+    ],
+    "garenoxacin": [
+        0.238773026,
+        null
+    ],
+    "celiprolol": [
+        0.238353478,
+        null
+    ],
+    "Narlaprevir": [
+        0.238269806,
+        null
+    ],
+    "Ethoxzolamide": [
+        0.238184694,
+        null
+    ],
+    "(+)-Cedrol": [
+        0.238115385,
+        null
+    ],
+    "promazine": [
+        0.237581912,
+        null
+    ],
+    "decoquinate": [
+        0.237403321,
+        null
+    ],
+    "terconazole": [
+        0.236383181,
+        null
+    ],
+    "Dantrolene": [
+        0.23617469,
+        null
+    ],
+    "acetophenazine": [
+        0.235876359,
+        null
+    ],
+    "gepefrine": [
+        0.235668812,
+        null
+    ],
+    "riboflavin": [
+        0.235364746,
+        null
+    ],
+    "miglustat": [
+        0.235236369,
+        null
+    ],
+    "Levalbuterol": [
+        0.235086456,
+        null
+    ],
+    "Nepafenac": [
+        0.234966302,
+        null
+    ],
+    "ramifenazone": [
+        0.234681833,
+        null
+    ],
+    "Dacarbazine": [
+        0.23446726,
+        null
+    ],
+    "Carbetapentane": [
+        0.234102316,
+        null
+    ],
+    "prednisone": [
+        0.233956967,
+        null
+    ],
+    "Antazoline": [
+        0.233955095,
+        null
+    ],
+    "Mirabegron": [
+        0.233902765,
+        null
+    ],
+    "Pargyline": [
+        0.233785517,
+        null
+    ],
+    "Cyromazine": [
+        0.233697775,
+        null
+    ],
+    "Cinchophen": [
+        0.233554497,
+        null
+    ],
+    "Olmesartan medoxomil": [
+        0.233490426,
+        null
+    ],
+    "NVP-AEW541": [
+        0.23348566,
+        null
+    ],
+    "paroxypropione": [
+        0.233479471,
+        null
+    ],
+    "Quinidine": [
+        0.233428375,
+        null
+    ],
+    "chlorprothixene": [
+        0.233014954,
+        null
+    ],
+    "carbinoxamine": [
+        0.232660709,
+        null
+    ],
+    "Loratadine": [
+        0.232341632,
+        null
+    ],
+    "Umeclidinium bromide": [
+        0.232278391,
+        null
+    ],
+    "Tamibarotene": [
+        0.23200864,
+        null
+    ],
+    "Atropine": [
+        0.231887115,
+        null
+    ],
+    "dimethisoquin": [
+        0.231538296,
+        null
+    ],
+    "lufenuron": [
+        0.231255312,
+        null
+    ],
+    "Doxycycline hyclate": [
+        0.231120909,
+        null
+    ],
+    "Refametinib": [
+        0.231088166,
+        null
+    ],
+    "Guaifenesin": [
+        0.230930082,
+        null
+    ],
+    "Clopidol": [
+        0.230839438,
+        null
+    ],
+    "Methylergonovine": [
+        0.230775867,
+        null
+    ],
+    "Trientine": [
+        0.230703795,
+        null
+    ],
+    "Xylose": [
+        0.23039409,
+        null
+    ],
+    "valganciclovir": [
+        0.230034552,
+        null
+    ],
+    "Bedaquiline fumarate": [
+        0.229546677,
+        null
+    ],
+    "pergolide": [
+        0.229361239,
+        null
+    ],
+    "Quinine": [
+        0.229227202,
+        null
+    ],
+    "Metergoline": [
+        0.229027407,
+        null
+    ],
+    "Lonidamine": [
+        0.228898554,
+        null
+    ],
+    "Cefcapene Pivoxil Hydrochloride": [
+        0.227866043,
+        null
+    ],
+    "pancuronium": [
+        0.227726115,
+        null
+    ],
+    "Desloratadine": [
+        0.227579333,
+        null
+    ],
+    "Betaxolol": [
+        0.227431884,
+        null
+    ],
+    "aztreonam": [
+        0.227228791,
+        null
+    ],
+    "Calcipotriene": [
+        0.227005919,
+        null
+    ],
+    "Nelfinavir": [
+        0.226271797,
+        null
+    ],
+    "doxazosin": [
+        0.225872709,
+        null
+    ],
+    "pilsicainide": [
+        0.225378577,
+        null
+    ],
+    "Florfenicol": [
+        0.225185054,
+        null
+    ],
+    "piketoprofen": [
+        0.225181448,
+        null
+    ],
+    "Felbamate": [
+        0.225066286,
+        null
+    ],
+    "quinine-ethyl-carbonate": [
+        0.224717542,
+        null
+    ],
+    "Molsidomine": [
+        0.224651516,
+        null
+    ],
+    "Roxithromycin": [
+        0.224410813,
+        null
+    ],
+    "Disulfiram": [
+        0.224344173,
+        null
+    ],
+    "Piperonyl butoxide": [
+        0.224324126,
+        null
+    ],
+    "cefonicid": [
+        0.224208638,
+        null
+    ],
+    "Repaglinide": [
+        0.22410217,
+        null
+    ],
+    "rabeprazole": [
+        0.224100002,
+        null
+    ],
+    "Fludarabine phosphate": [
+        0.224037928,
+        null
+    ],
+    "betamethasone-acetate": [
+        0.22401796,
+        null
+    ],
+    "gallopamil": [
+        0.223146629,
+        null
+    ],
+    "Filgotinib": [
+        0.223043496,
+        null
+    ],
+    "Fluvoxamine": [
+        0.222937555,
+        null
+    ],
+    "Pirfenidone": [
+        0.222895752,
+        null
+    ],
+    "Delamanid": [
+        0.222781392,
+        null
+    ],
+    "Rizatriptan": [
+        0.222253065,
+        null
+    ],
+    "Clofibrate": [
+        0.22207491,
+        null
+    ],
+    "Palonosetron HCl": [
+        0.221824894,
+        null
+    ],
+    "gestodene": [
+        0.221378059,
+        null
+    ],
+    "eszopiclone": [
+        0.22122774,
+        null
+    ],
+    "phensuximide": [
+        0.221073433,
+        null
+    ],
+    "Imiquimod": [
+        0.22060882,
+        null
+    ],
+    "indoprofen": [
+        0.220597934,
+        null
+    ],
+    "dorzolamide": [
+        0.220303736,
+        null
+    ],
+    "Pilocarpine": [
+        0.220289091,
+        null
+    ],
+    "Raltegravir": [
+        0.220159165,
+        null
+    ],
+    "Cholic acid": [
+        0.220155339,
+        null
+    ],
+    "Tranilast": [
+        0.220120365,
+        null
+    ],
+    "metaproterenol": [
+        0.219906573,
+        null
+    ],
+    "Irbesartan": [
+        0.219562511,
+        null
+    ],
+    "sulfinpyrazone": [
+        0.219072051,
+        null
+    ],
+    "Reserpine": [
+        0.219014395,
+        null
+    ],
+    "Rivastigmine": [
+        0.218853865,
+        null
+    ],
+    "cefotiam": [
+        0.218741082,
+        null
+    ],
+    "epirizole": [
+        0.218552516,
+        null
+    ],
+    "Dexpropranolol": [
+        0.217988011,
+        null
+    ],
+    "Nortriptyline": [
+        0.217348194,
+        null
+    ],
+    "Loperamide": [
+        0.217304718,
+        null
+    ],
+    "fursultiamine": [
+        0.216971087,
+        null
+    ],
+    "olprinone": [
+        0.216313455,
+        null
+    ],
+    "ezetimibe": [
+        0.216288849,
+        null
+    ],
+    "Deferiprone": [
+        0.216204394,
+        null
+    ],
+    "taltirelin": [
+        0.215469466,
+        null
+    ],
+    "mercaptosuccinic-acid": [
+        0.215436155,
+        null
+    ],
+    "Arbidol": [
+        0.215411228,
+        null
+    ],
+    "darifenacin": [
+        0.214639095,
+        null
+    ],
+    "Saxagliptin hydrate": [
+        0.214174916,
+        null
+    ],
+    "Cyclophosphamide": [
+        0.214122918,
+        null
+    ],
+    "trilostane": [
+        0.213671311,
+        null
+    ],
+    "i-Inositol": [
+        0.213349015,
+        null
+    ],
+    "CAY10576": [
+        0.213001765,
+        null
+    ],
+    "Liothyronine": [
+        0.212895596,
+        null
+    ],
+    "benperidol": [
+        0.212777834,
+        null
+    ],
+    "eliglustat": [
+        0.212080261,
+        null
+    ],
+    "Ipragliflozin": [
+        0.212013724,
+        null
+    ],
+    "Cefixime": [
+        0.211838118,
+        null
+    ],
+    "thiothixene": [
+        0.211604784,
+        null
+    ],
+    "Pentolinium": [
+        0.211471354,
+        null
+    ],
+    "estradiol-cypionate": [
+        0.211370944,
+        null
+    ],
+    "Dexlansoprazole": [
+        0.211093414,
+        null
+    ],
+    "cyclovalone": [
+        0.210857759,
+        null
+    ],
+    "ginsenoside-rg3": [
+        0.210750372,
+        null
+    ],
+    "telaprevir": [
+        0.210741062,
+        null
+    ],
+    "chenodeoxycholic-acid": [
+        0.210681743,
+        null
+    ],
+    "clocortolone-pivalate": [
+        0.210621039,
+        null
+    ],
+    "Adefovir dipivoxil": [
+        0.210225475,
+        null
+    ],
+    "dimemorfan": [
+        0.210011902,
+        null
+    ],
+    "mebicar": [
+        0.209591141,
+        null
+    ],
+    "Alpha-hydroxydeoxycholic acid": [
+        0.209415957,
+        null
+    ],
+    "meclocycline-sulfosalicylate": [
+        0.209380662,
+        null
+    ],
+    "Isavuconazole": [
+        0.208867116,
+        null
+    ],
+    "Ripasudil": [
+        0.2087391,
+        null
+    ],
+    "Afatinib": [
+        0.208652079,
+        null
+    ],
+    "alimemazine": [
+        0.208122251,
+        null
+    ],
+    "cinoxate": [
+        0.208006361,
+        null
+    ],
+    "Aprepitant": [
+        0.207083462,
+        null
+    ],
+    "Loxoprofen": [
+        0.207016797,
+        null
+    ],
+    "GS-441524": [
+        0.206784124,
+        null
+    ],
+    "Tolterodine": [
+        0.206747153,
+        null
+    ],
+    "dapiprazole": [
+        0.206527499,
+        null
+    ],
+    "Voriconazole": [
+        0.206377861,
+        null
+    ],
+    "mabuprofen": [
+        0.206313363,
+        null
+    ],
+    "Visomitin": [
+        0.205995692,
+        null
+    ],
+    "hydroxyamphetamine": [
+        0.205715048,
+        null
+    ],
+    "Apremilast": [
+        0.205594055,
+        null
+    ],
+    "Tenofovir Alafenamide": [
+        0.205388456,
+        null
+    ],
+    "Lafutidine": [
+        0.205208809,
+        null
+    ],
+    "Sulfamethizole": [
+        0.205096319,
+        null
+    ],
+    "tibolone": [
+        0.204793381,
+        null
+    ],
+    "levallorphan": [
+        0.204775572,
+        null
+    ],
+    "Bromperidol": [
+        0.204561771,
+        null
+    ],
+    "eprobemide": [
+        0.20376559,
+        null
+    ],
+    "doxepin": [
+        0.203754566,
+        null
+    ],
+    "Netupitant": [
+        0.203665682,
+        null
+    ],
+    "Alogliptin": [
+        0.203446033,
+        null
+    ],
+    "Temocapril": [
+        0.203383904,
+        null
+    ],
+    "Dicyclomine": [
+        0.203259809,
+        null
+    ],
+    "Nifursolum": [
+        0.203175052,
+        null
+    ],
+    "Telotristat": [
+        0.203043443,
+        null
+    ],
+    "Ethopabate": [
+        0.202935452,
+        null
+    ],
+    "Tie2 kinase inhibitor": [
+        0.202905363,
+        null
+    ],
+    "Erythritol": [
+        0.202834168,
+        null
+    ],
+    "synephrine": [
+        0.202831229,
+        null
+    ],
+    "sparfloxacin": [
+        0.202660666,
+        null
+    ],
+    "MLN9708": [
+        0.202592797,
+        null
+    ],
+    "Olmesartan": [
+        0.20250093,
+        null
+    ],
+    "picotamide": [
+        0.202008531,
+        null
+    ],
+    "argatroban": [
+        0.201974078,
+        null
+    ],
+    "Dequalinium": [
+        0.201847426,
+        null
+    ],
+    "Fenofibrate": [
+        0.201832082,
+        null
+    ],
+    "4-Aminosalicylate": [
+        0.201669547,
+        null
+    ],
+    "Nilutamide": [
+        0.201502607,
+        null
+    ],
+    "Balapiravir": [
+        0.200840654,
+        null
+    ],
+    "asunaprevir": [
+        0.200576461,
+        null
+    ],
+    "Mycophenolate mofetil": [
+        0.200308303,
+        null
+    ],
+    "Protryptyline": [
+        0.200189918,
+        null
+    ],
+    "Tripelennamine": [
+        0.199600941,
+        null
+    ],
+    "Imipramine": [
+        0.199506621,
+        null
+    ],
+    "Dofetilide": [
+        0.199497554,
+        null
+    ],
+    "acrivastine": [
+        0.199433379,
+        null
+    ],
+    "piperidolate": [
+        0.199205919,
+        null
+    ],
+    "Valganciclovir": [
+        0.199142174,
+        null
+    ],
+    "emedastine": [
+        0.19865556,
+        null
+    ],
+    "SNS-032": [
+        0.198633196,
+        null
+    ],
+    "Tofogliflozin": [
+        0.198521069,
+        null
+    ],
+    "Flutamide": [
+        0.198156016,
+        null
+    ],
+    "Avanafil": [
+        0.198098415,
+        null
+    ],
+    "Glimepiride": [
+        0.197852425,
+        null
+    ],
+    "Primidone": [
+        0.19777539,
+        null
+    ],
+    "Urapidil": [
+        0.197714493,
+        null
+    ],
+    "Oxymetazoline": [
+        0.19763404,
+        null
+    ],
+    "clidinium": [
+        0.197234924,
+        null
+    ],
+    "rocuronium": [
+        0.197178989,
+        null
+    ],
+    "fluspirilene": [
+        0.197071681,
+        null
+    ],
+    "3,3,5-Trimethylcyclohexyl salicylate": [
+        0.196720883,
+        null
+    ],
+    "Tadalafil": [
+        0.196268875,
+        null
+    ],
+    "Epalrestat": [
+        0.196067708,
+        null
+    ],
+    "chlormidazole": [
+        0.195778125,
+        null
+    ],
+    "Acetaminophen": [
+        0.195768289,
+        null
+    ],
+    "C 87": [
+        0.195126573,
+        null
+    ],
+    "Carbamazepine": [
+        0.194941733,
+        null
+    ],
+    "Rasagiline": [
+        0.194830272,
+        null
+    ],
+    "Pantothenic acid": [
+        0.194565942,
+        null
+    ],
+    "Dexrazoxane": [
+        0.193881249,
+        null
+    ],
+    "Camostat": [
+        0.193704001,
+        null
+    ],
+    "tazobactam": [
+        0.193518171,
+        null
+    ],
+    "Ceftriaxone": [
+        0.193209822,
+        null
+    ],
+    "Mitiglinide": [
+        0.192838861,
+        null
+    ],
+    "Pentoxifylline": [
+        0.192806351,
+        null
+    ],
+    "Carbimazole": [
+        0.19236812,
+        null
+    ],
+    "Trovafloxacin": [
+        0.19230394,
+        null
+    ],
+    "Acetarsol": [
+        0.192195501,
+        null
+    ],
+    "Lidocaine": [
+        0.191844155,
+        null
+    ],
+    "Melatonin": [
+        0.191843875,
+        null
+    ],
+    "Ulipristal": [
+        0.191271791,
+        null
+    ],
+    "crisaborole": [
+        0.190732537,
+        null
+    ],
+    "A 939572": [
+        0.190652558,
+        null
+    ],
+    "6-Thioguanine": [
+        0.189970655,
+        null
+    ],
+    "L-Theanine": [
+        0.189958875,
+        null
+    ],
+    "AZD2858": [
+        0.189847978,
+        null
+    ],
+    "Creatinol phosphate": [
+        0.189733389,
+        null
+    ],
+    "suxibuzone": [
+        0.189365992,
+        null
+    ],
+    "heptaminol": [
+        0.189354695,
+        null
+    ],
+    "Tolmetin": [
+        0.189308196,
+        null
+    ],
+    "ledipasvir": [
+        0.189023646,
+        null
+    ],
+    "Desvenlafaxine": [
+        0.18817332,
+        null
+    ],
+    "Clonidine": [
+        0.188106021,
+        null
+    ],
+    "protirelin": [
+        0.188084797,
+        null
+    ],
+    "Etoricoxib": [
+        0.187289311,
+        null
+    ],
+    "Aripiprazole": [
+        0.187199652,
+        null
+    ],
+    "Nevirapine": [
+        0.187136038,
+        null
+    ],
+    "lofexidine": [
+        0.187069159,
+        null
+    ],
+    "hydroxystilbamidine": [
+        0.187049786,
+        null
+    ],
+    "trapidil": [
+        0.186902919,
+        null
+    ],
+    "Nicotinyl alcohol": [
+        0.186863796,
+        null
+    ],
+    "tranexamic-acid": [
+        0.186783481,
+        null
+    ],
+    "Voglibose": [
+        0.186739642,
+        null
+    ],
+    "Tipiracil": [
+        0.186468037,
+        null
+    ],
+    "norethindrone": [
+        0.18620953,
+        null
+    ],
+    "Iopodic acid": [
+        0.186144908,
+        null
+    ],
+    "Acamprosate": [
+        0.186127022,
+        null
+    ],
+    "GF109203X": [
+        0.186080079,
+        null
+    ],
+    "Nonivamide": [
+        0.185904065,
+        null
+    ],
+    "Ranolazine": [
+        0.185626863,
+        null
+    ],
+    "Eslicarbazepine Acetate": [
+        0.185502846,
+        null
+    ],
+    "Atomoxetine": [
+        0.185347895,
+        null
+    ],
+    "vernakalant": [
+        0.184161461,
+        null
+    ],
+    "hydrocortisone-butyrate": [
+        0.184115199,
+        null
+    ],
+    "Amprenavir": [
+        0.183969283,
+        null
+    ],
+    "Solifenacin": [
+        0.183737342,
+        null
+    ],
+    "Urea": [
+        0.183408736,
+        null
+    ],
+    "YK-4-279": [
+        0.183321593,
+        null
+    ],
+    "Chlorquinaldol": [
+        0.183248912,
+        null
+    ],
+    "apraclonidine": [
+        0.183161884,
+        null
+    ],
+    "Iopamidol": [
+        0.182711676,
+        null
+    ],
+    "ritodrine": [
+        0.182663752,
+        null
+    ],
+    "ifosfamide": [
+        0.182516137,
+        null
+    ],
+    "AZD2014": [
+        0.182038386,
+        null
+    ],
+    "finafloxacin": [
+        0.181918742,
+        null
+    ],
+    "flurbiprofen-(S)-(+)": [
+        0.181698543,
+        null
+    ],
+    "Amisulpride": [
+        0.181627127,
+        null
+    ],
+    "Guanethidine": [
+        0.181605854,
+        null
+    ],
+    "Isopropamide": [
+        0.181523244,
+        null
+    ],
+    "lasalocid": [
+        0.180929716,
+        null
+    ],
+    "isoprenaline": [
+        0.180920495,
+        null
+    ],
+    "prothionamide": [
+        0.180850672,
+        null
+    ],
+    "Testosterone Enanthate": [
+        0.180747142,
+        null
+    ],
+    "Lumiracoxib": [
+        0.180251784,
+        null
+    ],
+    "telotristat": [
+        0.179855295,
+        null
+    ],
+    "Spiperone": [
+        0.17943968,
+        null
+    ],
+    "Cefoperazone": [
+        0.179188677,
+        null
+    ],
+    "Butanedioic acid": [
+        0.178652872,
+        null
+    ],
+    "VX-661": [
+        0.178379188,
+        null
+    ],
+    "Tozasertib": [
+        0.177837447,
+        null
+    ],
+    "Clindamycin palmitate": [
+        0.177822271,
+        null
+    ],
+    "Sulfachloropyridazine": [
+        0.17780824,
+        null
+    ],
+    "carbadox": [
+        0.177631782,
+        null
+    ],
+    "Gabapentin enacarbil": [
+        0.177373051,
+        null
+    ],
+    "Entecavir": [
+        0.177298106,
+        null
+    ],
+    "cloranolol": [
+        0.177273051,
+        null
+    ],
+    "diflunisal": [
+        0.177056808,
+        null
+    ],
+    "cefpirome": [
+        0.176980408,
+        null
+    ],
+    "Abacavir hemisulfate": [
+        0.176380138,
+        null
+    ],
+    "miransertib": [
+        0.176048472,
+        null
+    ],
+    "Ranitidine": [
+        0.175794022,
+        null
+    ],
+    "benfotiamine": [
+        0.175780834,
+        null
+    ],
+    "tacalcitol": [
+        0.175674314,
+        null
+    ],
+    "OSI-930": [
+        0.175642781,
+        null
+    ],
+    "terguride": [
+        0.17517324,
+        null
+    ],
+    "Buflomedil": [
+        0.17462617,
+        null
+    ],
+    "Gimeracil": [
+        0.174551258,
+        null
+    ],
+    "medroxyprogesterone-acetate": [
+        0.174222511,
+        null
+    ],
+    "mebeverine": [
+        0.173984534,
+        null
+    ],
+    "4-Aminopyridine": [
+        0.173718617,
+        null
+    ],
+    "Hydroxyurea": [
+        0.173165379,
+        null
+    ],
+    "Trimethobenzamide": [
+        0.172897762,
+        null
+    ],
+    "Sulfasalazine": [
+        0.172579929,
+        null
+    ],
+    "fipronil": [
+        0.172525074,
+        null
+    ],
+    "taurine": [
+        0.17211245,
+        null
+    ],
+    "Ractopamine": [
+        0.171936084,
+        null
+    ],
+    "Cinnarizine": [
+        0.171826674,
+        null
+    ],
+    "Aprindine hydrochloride": [
+        0.171773452,
+        null
+    ],
+    "clarithromycin": [
+        0.17166527,
+        null
+    ],
+    "L-Aspartic-Acid": [
+        0.171661323,
+        null
+    ],
+    "Mosapride": [
+        0.17140984,
+        null
+    ],
+    "Troxipide": [
+        0.171079116,
+        null
+    ],
+    "Novobiocin": [
+        0.170693841,
+        null
+    ],
+    "tofisopam": [
+        0.170199565,
+        null
+    ],
+    "estropipate": [
+        0.170150305,
+        null
+    ],
+    "deflazacort": [
+        0.169644802,
+        null
+    ],
+    "Imatinib": [
+        0.169332466,
+        null
+    ],
+    "Endoxifen": [
+        0.169266102,
+        null
+    ],
+    "Cinacalcet": [
+        0.168708272,
+        null
+    ],
+    "Pidotimod": [
+        0.168326256,
+        null
+    ],
+    "Rebamipide": [
+        0.167912264,
+        null
+    ],
+    "lomefloxacin": [
+        0.167830889,
+        null
+    ],
+    "Losartan": [
+        0.167136684,
+        null
+    ],
+    "Domperidone": [
+        0.167092858,
+        null
+    ],
+    "L-proline": [
+        0.166808236,
+        null
+    ],
+    "piretanide": [
+        0.166340347,
+        null
+    ],
+    "roxarsone": [
+        0.165650558,
+        null
+    ],
+    "Talnetant": [
+        0.165366238,
+        null
+    ],
+    "Propantheline": [
+        0.165192454,
+        null
+    ],
+    "pranoprofen": [
+        0.164108483,
+        null
+    ],
+    "norelgestromin": [
+        0.164075733,
+        null
+    ],
+    "Sparfloxacin": [
+        0.163107184,
+        null
+    ],
+    "ethaverine": [
+        0.162627206,
+        null
+    ],
+    "maropitant": [
+        0.16226136,
+        null
+    ],
+    "Dichlorophen": [
+        0.161728181,
+        null
+    ],
+    "Omarigliptin": [
+        0.161698272,
+        null
+    ],
+    "Uracil": [
+        0.161664561,
+        null
+    ],
+    "Pregnanolone": [
+        0.161613601,
+        null
+    ],
+    "oxatomide": [
+        0.161547204,
+        null
+    ],
+    "Minaprine": [
+        0.161003225,
+        null
+    ],
+    "Ondansetron": [
+        0.160921016,
+        null
+    ],
+    "butylphthalide": [
+        0.160757923,
+        null
+    ],
+    "minocycline": [
+        0.160282483,
+        null
+    ],
+    "Dinitolmide": [
+        0.159940708,
+        null
+    ],
+    "Pimobendan": [
+        0.159839014,
+        null
+    ],
+    "ACHP": [
+        0.159354985,
+        null
+    ],
+    "estramustine": [
+        0.15897885,
+        null
+    ],
+    "Lapatinib": [
+        0.158737024,
+        null
+    ],
+    "desoximetasone": [
+        0.158716374,
+        null
+    ],
+    "ceritinib": [
+        0.158376863,
+        null
+    ],
+    "Furosemide": [
+        0.158355233,
+        null
+    ],
+    "Milnacipran": [
+        0.158195811,
+        null
+    ],
+    "beta-Estradiol 17-acetate": [
+        0.158048398,
+        null
+    ],
+    "Isoetharine": [
+        0.157619314,
+        null
+    ],
+    "ibuprofen piconol": [
+        0.157433997,
+        null
+    ],
+    "Pralatrexate": [
+        0.157249674,
+        null
+    ],
+    "Brimonidine": [
+        0.157131754,
+        null
+    ],
+    "Mizoribine": [
+        0.156990112,
+        null
+    ],
+    "Rilpivirine": [
+        0.15696828,
+        null
+    ],
+    "Doxepin": [
+        0.156782377,
+        null
+    ],
+    "evans-blue": [
+        0.156771276,
+        null
+    ],
+    "Indomethacin": [
+        0.156770484,
+        null
+    ],
+    "Papaverine": [
+        0.156765898,
+        null
+    ],
+    "morinidazole": [
+        0.156496892,
+        null
+    ],
+    "Imidapril": [
+        0.156366769,
+        null
+    ],
+    "Diclofenac": [
+        0.155828026,
+        null
+    ],
+    "exalamide": [
+        0.15572786,
+        null
+    ],
+    "valethamate": [
+        0.155490225,
+        null
+    ],
+    "Tafluprost": [
+        0.155304567,
+        null
+    ],
+    "bopindolol": [
+        0.154552443,
+        null
+    ],
+    "Thonzylamine": [
+        0.154246161,
+        null
+    ],
+    "Flibanserin": [
+        0.154152036,
+        null
+    ],
+    "Trametinib": [
+        0.154030191,
+        null
+    ],
+    "Macitentan": [
+        0.153816045,
+        null
+    ],
+    "Coumarin": [
+        0.153700581,
+        null
+    ],
+    "tolonidine": [
+        0.153537766,
+        null
+    ],
+    "Ethacrynic acid": [
+        0.153380108,
+        null
+    ],
+    "PRT062607": [
+        0.153320025,
+        null
+    ],
+    "pirenoxine": [
+        0.151654961,
+        null
+    ],
+    "Allopurinol": [
+        0.151262315,
+        null
+    ],
+    "Oxethazaine": [
+        0.150684058,
+        null
+    ],
+    "Aspirin": [
+        0.150191715,
+        null
+    ],
+    "imidacloprid": [
+        0.149812042,
+        null
+    ],
+    "Triacetin": [
+        0.149718633,
+        null
+    ],
+    "cefuroxime": [
+        0.149690571,
+        null
+    ],
+    "tetraethylenepentamine": [
+        0.149367192,
+        null
+    ],
+    "methazolamide": [
+        0.149351927,
+        null
+    ],
+    "Ronidazole": [
+        0.149351036,
+        null
+    ],
+    "balofloxacin": [
+        0.148537206,
+        null
+    ],
+    "Sibutramine": [
+        0.148249293,
+        null
+    ],
+    "oxiconazole": [
+        0.14812071,
+        null
+    ],
+    "Nicotianamine": [
+        0.148035085,
+        null
+    ],
+    "bicalutamide": [
+        0.147976757,
+        null
+    ],
+    "Valsartan": [
+        0.147841142,
+        null
+    ],
+    "8-Hydroxyquinoline": [
+        0.147575221,
+        null
+    ],
+    "Enzastaurin": [
+        0.147204538,
+        null
+    ],
+    "Sertindole": [
+        0.14695169,
+        null
+    ],
+    "stepronin": [
+        0.146820723,
+        null
+    ],
+    "Afloqualone": [
+        0.146709339,
+        null
+    ],
+    "nifenalol": [
+        0.14637819,
+        null
+    ],
+    "Flumethasone pivalate": [
+        0.146069855,
+        null
+    ],
+    "Daclatasvir": [
+        0.145702489,
+        null
+    ],
+    "drofenine": [
+        0.145679476,
+        null
+    ],
+    "caramiphen": [
+        0.145618981,
+        null
+    ],
+    "Nordihydroguaiaretic acid": [
+        0.145491288,
+        null
+    ],
+    "D-Pantethine": [
+        0.145241221,
+        null
+    ],
+    "CHIR-124": [
+        0.145206004,
+        null
+    ],
+    "Atenolol": [
+        0.145130983,
+        null
+    ],
+    "ibuprofen-(s)": [
+        0.145123181,
+        null
+    ],
+    "Fluorescein": [
+        0.145071625,
+        null
+    ],
+    "Vardenafil": [
+        0.145037859,
+        null
+    ],
+    "Rifabutin": [
+        0.1449218,
+        null
+    ],
+    "Manidipine": [
+        0.144917509,
+        null
+    ],
+    "Bromopride": [
+        0.144740103,
+        null
+    ],
+    "Fusidic acid": [
+        0.144666328,
+        null
+    ],
+    "iguratimod": [
+        0.144456479,
+        null
+    ],
+    "Alverine": [
+        0.144417508,
+        null
+    ],
+    "Triclosan": [
+        0.144343845,
+        null
+    ],
+    "Tebipenem pivoxil": [
+        0.143984416,
+        null
+    ],
+    "betamethasone": [
+        0.143879595,
+        null
+    ],
+    "Thiabendazole": [
+        0.142825481,
+        null
+    ],
+    "salinomycin": [
+        0.142820083,
+        null
+    ],
+    "dicloxacillin": [
+        0.142290591,
+        null
+    ],
+    "fosfomycin": [
+        0.142006574,
+        null
+    ],
+    "Olaparib": [
+        0.141883577,
+        null
+    ],
+    "IMD 0354": [
+        0.141858567,
+        null
+    ],
+    "6-Mercaptopurine": [
+        0.141596601,
+        null
+    ],
+    "Famciclovir": [
+        0.141539546,
+        null
+    ],
+    "Dibucaine": [
+        0.14122786,
+        null
+    ],
+    "Acipimox": [
+        0.140808646,
+        null
+    ],
+    "N,N-Diisopropyltryptamine": [
+        0.140556539,
+        null
+    ],
+    "Propacetamol": [
+        0.139345531,
+        null
+    ],
+    "Ioversol": [
+        0.139145198,
+        null
+    ],
+    "Glipizide": [
+        0.138951176,
+        null
+    ],
+    "Vildagliptin": [
+        0.138876978,
+        null
+    ],
+    "Chloroprocaine": [
+        0.138827425,
+        null
+    ],
+    "rosoxacin": [
+        0.138823285,
+        null
+    ],
+    "5-bromo-2’-deoxyuridine": [
+        0.138696214,
+        null
+    ],
+    "F0537-0683": [
+        0.138448849,
+        null
+    ],
+    "Phenylephrine": [
+        0.138089544,
+        null
+    ],
+    "Aniracetam": [
+        0.138080861,
+        null
+    ],
+    "tuaminoheptane": [
+        0.138039347,
+        null
+    ],
+    "Letrozole": [
+        0.137952806,
+        null
+    ],
+    "methoxyphenamine": [
+        0.13769637,
+        null
+    ],
+    "Triapine": [
+        0.137516208,
+        null
+    ],
+    "Amprolium": [
+        0.137440408,
+        null
+    ],
+    "fadrozole": [
+        0.136956578,
+        null
+    ],
+    "Cilostazol": [
+        0.136472586,
+        null
+    ],
+    "prednisolone": [
+        0.135991228,
+        null
+    ],
+    "Methoxsalen": [
+        0.135846019,
+        null
+    ],
+    "furaltadone": [
+        0.135800529,
+        null
+    ],
+    "Ivosidenib": [
+        0.134808799,
+        null
+    ],
+    "escitalopram": [
+        0.134568361,
+        null
+    ],
+    "Nitrofurantoin": [
+        0.133786022,
+        null
+    ],
+    "Dihydroergotamine": [
+        0.133687601,
+        null
+    ],
+    "Menbutone": [
+        0.133592482,
+        null
+    ],
+    "Edoxaban": [
+        0.13351492,
+        null
+    ],
+    "Butamben": [
+        0.13311645,
+        null
+    ],
+    "sulbutiamine": [
+        0.132720525,
+        null
+    ],
+    "Raltitrexed": [
+        0.132456322,
+        null
+    ],
+    "vorapaxar": [
+        0.132258967,
+        null
+    ],
+    "GLPG1690": [
+        0.131674789,
+        null
+    ],
+    "tipranavir": [
+        0.131605287,
+        null
+    ],
+    "Avibactam sodium": [
+        0.13154965,
+        null
+    ],
+    "ribitol": [
+        0.131393208,
+        null
+    ],
+    "Tirofiban Hydrochloride": [
+        0.130351258,
+        null
+    ],
+    "5-hydroxytryptophan": [
+        0.130332459,
+        null
+    ],
+    "Nelarabine": [
+        0.130223456,
+        null
+    ],
+    "pipemidic-acid": [
+        0.12985758,
+        null
+    ],
+    "Crotamiton": [
+        0.129632132,
+        null
+    ],
+    "BIIB021": [
+        0.129378616,
+        null
+    ],
+    "Ivacaftor": [
+        0.129231851,
+        null
+    ],
+    "Bendamustine": [
+        0.128824445,
+        null
+    ],
+    "Conivaptan": [
+        0.128741825,
+        null
+    ],
+    "dilazep": [
+        0.128667956,
+        null
+    ],
+    "Vonoprazan": [
+        0.128611245,
+        null
+    ],
+    "Cyclizine": [
+        0.127198038,
+        null
+    ],
+    "bambuterol": [
+        0.127185618,
+        null
+    ],
+    "Tenofovir": [
+        0.127126084,
+        null
+    ],
+    "Dichlorphenamide": [
+        0.126078801,
+        null
+    ],
+    "acetyl-farnesyl-cysteine": [
+        0.12530624,
+        null
+    ],
+    "Terbinafine": [
+        0.125176137,
+        null
+    ],
+    "cafestol": [
+        0.125104714,
+        null
+    ],
+    "eptifibatide": [
+        0.124966607,
+        null
+    ],
+    "Amantadine": [
+        0.124792116,
+        null
+    ],
+    "Pipenzolate": [
+        0.123910782,
+        null
+    ],
+    "SPD-304": [
+        0.123811525,
+        null
+    ],
+    "Sasapyrine": [
+        0.12346197,
+        null
+    ],
+    "theobromine": [
+        0.1233855,
+        null
+    ],
+    "Adrenaline": [
+        0.123012734,
+        null
+    ],
+    "sofalcone": [
+        0.122599342,
+        null
+    ],
+    "enoxolone": [
+        0.122552006,
+        null
+    ],
+    "pinacidil": [
+        0.122350657,
+        null
+    ],
+    "blonanserin": [
+        0.122211861,
+        null
+    ],
+    "lanoconazole": [
+        0.122060895,
+        null
+    ],
+    "Nalidixic acid": [
+        0.121965528,
+        null
+    ],
+    "OSI-027": [
+        0.121840332,
+        null
+    ],
+    "balsalazide": [
+        0.121706505,
+        null
+    ],
+    "Lumacaftor": [
+        0.121320777,
+        null
+    ],
+    "carbazochrome": [
+        0.120928586,
+        null
+    ],
+    "nitenpyram": [
+        0.120886762,
+        null
+    ],
+    "Deferasirox": [
+        0.120825524,
+        null
+    ],
+    "D-Mannitol": [
+        0.120443832,
+        null
+    ],
+    "GSK2982772": [
+        0.120182501,
+        null
+    ],
+    "Rimegepant": [
+        0.119726412,
+        null
+    ],
+    "Oseltamivir": [
+        0.119484329,
+        null
+    ],
+    "dexlansoprazole": [
+        0.119413116,
+        null
+    ],
+    "creatine": [
+        0.11930268,
+        null
+    ],
+    "Riociguat": [
+        0.118570716,
+        null
+    ],
+    "Cyclosporine": [
+        0.118443113,
+        null
+    ],
+    "Ciclopirox": [
+        0.117950105,
+        null
+    ],
+    "Hydrochlorothiazide": [
+        0.117627704,
+        null
+    ],
+    "Bilastine": [
+        0.117449205,
+        null
+    ],
+    "Memantine": [
+        0.117228414,
+        null
+    ],
+    "guacetisal": [
+        0.117065076,
+        null
+    ],
+    "tiletamine": [
+        0.116212615,
+        null
+    ],
+    "Sulisobenzone": [
+        0.115838378,
+        null
+    ],
+    "lovastatin": [
+        0.11568867,
+        null
+    ],
+    "Etravirine": [
+        0.11562934,
+        null
+    ],
+    "Buspirone": [
+        0.115527086,
+        null
+    ],
+    "AZM475271": [
+        0.115281763,
+        null
+    ],
+    "Enzalutamide": [
+        0.114956809,
+        null
+    ],
+    "Eprosartan": [
+        0.114394396,
+        null
+    ],
+    "hydroquinidine": [
+        0.11347498,
+        null
+    ],
+    "Lasmiditan (hydrochloride)": [
+        0.113276724,
+        null
+    ],
+    "Travoprost": [
+        0.113239333,
+        null
+    ],
+    "P7C3": [
+        0.113238835,
+        null
+    ],
+    "Dipyridamole": [
+        0.112723051,
+        null
+    ],
+    "griseofulvin": [
+        0.112551751,
+        null
+    ],
+    "orlistat": [
+        0.112136044,
+        null
+    ],
+    "Pyrazinamide": [
+        0.111985861,
+        null
+    ],
+    "eltrombopag": [
+        0.111752234,
+        null
+    ],
+    "altrenogest": [
+        0.111340257,
+        null
+    ],
+    "Venetoclax": [
+        0.110879064,
+        null
+    ],
+    "Saccharin": [
+        0.110675002,
+        null
+    ],
+    "telithromycin": [
+        0.110345577,
+        null
+    ],
+    "Regorafenib": [
+        0.110052115,
+        null
+    ],
+    "carvedilol": [
+        0.109542689,
+        null
+    ],
+    "cefadroxil": [
+        0.109515108,
+        null
+    ],
+    "4-Chloro-3,5-dimethylphenol": [
+        0.109303279,
+        null
+    ],
+    "letosteine": [
+        0.108939907,
+        null
+    ],
+    "Tasimelteon": [
+        0.108212605,
+        null
+    ],
+    "diflorasone-diacetate": [
+        0.10809956,
+        null
+    ],
+    "streptozocin": [
+        0.107826121,
+        null
+    ],
+    "Fluoxetine": [
+        0.107441752,
+        null
+    ],
+    "doxercalciferol": [
+        0.107365184,
+        null
+    ],
+    "Azilsartan": [
+        0.107037565,
+        null
+    ],
+    "Desogestrel": [
+        0.106939078,
+        null
+    ],
+    "inimur": [
+        0.106421266,
+        null
+    ],
+    "firocoxib": [
+        0.106409349,
+        null
+    ],
+    "deserpidine": [
+        0.105454439,
+        null
+    ],
+    "Deferoxamine": [
+        0.105195579,
+        null
+    ],
+    "Azelnidipine": [
+        0.10514372,
+        null
+    ],
+    "Orlistat": [
+        0.105104478,
+        null
+    ],
+    "formoterol": [
+        0.105070477,
+        null
+    ],
+    "A 804598": [
+        0.104356126,
+        null
+    ],
+    "Etofylline clofibrate": [
+        0.1038036,
+        null
+    ],
+    "Diphenylpyraline": [
+        0.102773542,
+        null
+    ],
+    "Etifoxine": [
+        0.102709695,
+        null
+    ],
+    "Sulindac sulfone": [
+        0.102051779,
+        null
+    ],
+    "mepenzolate": [
+        0.101959955,
+        null
+    ],
+    "Zonisamide": [
+        0.101952147,
+        null
+    ],
+    "cefminox": [
+        0.10129694,
+        null
+    ],
+    "Prednisolone tebutate": [
+        0.101288542,
+        null
+    ],
+    "nifekalant": [
+        0.100718205,
+        null
+    ],
+    "Toremifene": [
+        0.099731314,
+        null
+    ],
+    "Sucrose": [
+        0.099630963,
+        null
+    ],
+    "Losartan Carboxylic Acid": [
+        0.09941384,
+        null
+    ],
+    "Vortioxetine": [
+        0.0993537,
+        null
+    ],
+    "ertugliflozin": [
+        0.099334844,
+        null
+    ],
+    "L-Glutamine": [
+        0.099095933,
+        null
+    ],
+    "paliperidone": [
+        0.09888159,
+        null
+    ],
+    "L-Arginine": [
+        0.098819654,
+        null
+    ],
+    "doxycycline": [
+        0.097957021,
+        null
+    ],
+    "vesnarinone": [
+        0.097925956,
+        null
+    ],
+    "Tivozanib": [
+        0.09789135,
+        null
+    ],
+    "Benztropine": [
+        0.097603292,
+        null
+    ],
+    "iobenguane": [
+        0.09683838,
+        null
+    ],
+    "Propranolol glycol": [
+        0.096319216,
+        null
+    ],
+    "Eplivanserin hemifumarate": [
+        0.095886517,
+        null
+    ],
+    "Choline": [
+        0.095552195,
+        null
+    ],
+    "L-Adrenaline": [
+        0.095091405,
+        null
+    ],
+    "Sorafenib": [
+        0.094197205,
+        null
+    ],
+    "Eletriptan": [
+        0.093889184,
+        null
+    ],
+    "guanaben": [
+        0.093872597,
+        null
+    ],
+    "Chloroquine": [
+        0.093671425,
+        null
+    ],
+    "oxiracetam": [
+        0.09326823,
+        null
+    ],
+    "Sulbactam pivoxil": [
+        0.092900638,
+        null
+    ],
+    "Cidofovir": [
+        0.092235155,
+        null
+    ],
+    "Cimetidine": [
+        0.092065837,
+        null
+    ],
+    "Clonixin": [
+        0.091850012,
+        null
+    ],
+    "pimecrolimus": [
+        0.091722887,
+        null
+    ],
+    "Etizolam": [
+        0.089289115,
+        null
+    ],
+    "Hydralazine": [
+        0.089086602,
+        null
+    ],
+    "dihydrotestosterone": [
+        0.088741506,
+        null
+    ],
+    "Oxyclozanide": [
+        0.088728527,
+        null
+    ],
+    "mirtazapine": [
+        0.087105784,
+        null
+    ],
+    "Nilvadipine": [
+        0.087074228,
+        null
+    ],
+    "Cetylpyridinium": [
+        0.086252669,
+        null
+    ],
+    "KPT-276": [
+        0.085783956,
+        null
+    ],
+    "Nimodipine": [
+        0.08567084,
+        null
+    ],
+    "rufloxacin": [
+        0.085510368,
+        null
+    ],
+    "zuclopenthixol": [
+        0.085242693,
+        null
+    ],
+    "Posaconazole": [
+        0.08493611,
+        null
+    ],
+    "dienestrol": [
+        0.084814921,
+        null
+    ],
+    "Temozolomide": [
+        0.084053736,
+        null
+    ],
+    "pipecuronium": [
+        0.083697997,
+        null
+    ],
+    "Difluprednate": [
+        0.083215324,
+        null
+    ],
+    "esomeprazole": [
+        0.082920498,
+        null
+    ],
+    "Thiram": [
+        0.082441554,
+        null
+    ],
+    "AP26113": [
+        0.081402314,
+        null
+    ],
+    "Retigabine": [
+        0.080082333,
+        null
+    ],
+    "Pyridostigmine": [
+        0.077437584,
+        null
+    ],
+    "ISO-1": [
+        0.077359623,
+        null
+    ],
+    "Lacidipine": [
+        0.076920221,
+        null
+    ],
+    "Clofibric acid": [
+        0.076629546,
+        null
+    ],
+    "Fabomotizole": [
+        0.076485209,
+        null
+    ],
+    "tropisetron": [
+        0.07628968,
+        null
+    ],
+    "Levobetaxolol": [
+        0.076161448,
+        null
+    ],
+    "IKK2 inhibitor VI": [
+        0.07575257,
+        null
+    ],
+    "furazolidone": [
+        0.075345391,
+        null
+    ],
+    "betamethasone-valerate": [
+        0.074738068,
+        null
+    ],
+    "Dolasetron mesylate": [
+        0.074454792,
+        null
+    ],
+    "Metronidazole": [
+        0.074331216,
+        null
+    ],
+    "Naproxen": [
+        0.074233808,
+        null
+    ],
+    "Anidulafungin": [
+        0.074170382,
+        null
+    ],
+    "Mycophenolic acid": [
+        0.070560377,
+        null
+    ],
+    "indobufen": [
+        0.070330493,
+        null
+    ],
+    "Fenebrutinib": [
+        0.069842229,
+        null
+    ],
+    "tromaril": [
+        0.069799007,
+        null
+    ],
+    "Chlorogenic acid": [
+        0.069490594,
+        null
+    ],
+    "Tolazamide": [
+        0.068742178,
+        null
+    ],
+    "Nutlin-3a": [
+        0.068647946,
+        null
+    ],
+    "sulfamonomethoxine": [
+        0.068447772,
+        null
+    ],
+    "Thonzonium": [
+        0.068323018,
+        null
+    ],
+    "oxyphenonium": [
+        0.067977244,
+        null
+    ],
+    "Fomepizole": [
+        0.067529762,
+        null
+    ],
+    "octocrylene": [
+        0.067097856,
+        null
+    ],
+    "Meticrane": [
+        0.066642093,
+        null
+    ],
+    "Eupatilin": [
+        0.065814248,
+        null
+    ],
+    "flunisolide": [
+        0.062510424,
+        null
+    ],
+    "nitrendipine": [
+        0.061691749,
+        null
+    ],
+    "Elvitegravir": [
+        0.061124769,
+        null
+    ],
+    "Zolmitriptan": [
+        0.060217233,
+        null
+    ],
+    "sulmetozine": [
+        0.060135652,
+        null
+    ],
+    "Mecamylamine": [
+        0.060026684,
+        null
+    ],
+    "dyphylline": [
+        0.059725256,
+        null
+    ],
+    "methylprednisolone-aceponate": [
+        0.059159579,
+        null
+    ],
+    "Diiodohydroxyquinoline": [
+        0.058979804,
+        null
+    ],
+    "Fosaprepitant": [
+        0.058248675,
+        null
+    ],
+    "azelastine": [
+        0.057049957,
+        null
+    ],
+    "Bezafibrate": [
+        0.056135456,
+        null
+    ],
+    "Alcaftadine": [
+        0.055478841,
+        null
+    ],
+    "Chlorzoxazone": [
+        0.055161367,
+        null
+    ],
+    "Aliskiren": [
+        0.054811617,
+        null
+    ],
+    "DEET": [
+        0.052698356,
+        null
+    ],
+    "glucosamine": [
+        0.052602988,
+        null
+    ],
+    "pivmecillinam": [
+        0.052289991,
+        null
+    ],
+    "cefaclor": [
+        0.052262615,
+        null
+    ],
+    "Raloxifene": [
+        0.051686515,
+        null
+    ],
+    "metixene": [
+        0.051269666,
+        null
+    ],
+    "Degrasyn": [
+        0.050948962,
+        null
+    ],
+    "Pexidartinib": [
+        0.050539485,
+        null
+    ],
+    "Cetrimonium": [
+        0.0492049,
+        null
+    ],
+    "Vilazodone": [
+        0.04551176,
+        null
+    ],
+    "Phthalylsulfathiazole": [
+        0.04490783,
+        null
+    ],
+    "Metamizole": [
+        0.044649395,
+        null
+    ],
+    "AZD 1283": [
+        0.04454305,
+        null
+    ],
+    "Benidipine": [
+        0.044353697,
+        null
+    ],
+    "meclofenamic acid": [
+        0.044174697,
+        null
+    ],
+    "mepivacaine": [
+        0.042932283,
+        null
+    ],
+    "Cyclandelate": [
+        0.041713136,
+        null
+    ],
+    "Otilonium": [
+        0.039658472,
+        null
+    ],
+    "Zileuton": [
+        0.039427283,
+        null
+    ],
+    "enocitabine": [
+        0.03895512,
+        null
+    ],
+    "Chlorhexidine": [
+        0.038382458,
+        null
+    ],
+    "Tamoxifen": [
+        0.037753591,
+        null
+    ],
+    "donepezil": [
+        0.037659187,
+        null
+    ],
+    "norethindrone-acetate": [
+        0.037426103,
+        null
+    ],
+    "tiludronate": [
+        0.037192292,
+        null
+    ],
+    "Zafirlukast": [
+        0.036817059,
+        null
+    ],
+    "oxprenolol": [
+        0.036548318,
+        null
+    ],
+    "cefotetan": [
+        0.03572443,
+        null
+    ],
+    "Azilsartan medoxomil": [
+        0.035699119,
+        null
+    ],
+    "naloxegol": [
+        0.035182246,
+        null
+    ],
+    "colforsin-daproate": [
+        0.034946231,
+        null
+    ],
+    "7-Ethyl-10-hydroxycamptothecin": [
+        0.033300151,
+        null
+    ],
+    "Foretinib": [
+        0.032558065,
+        null
+    ],
+    "Fudosteine": [
+        0.031847771,
+        null
+    ],
+    "Hexachlorophene": [
+        0.031359366,
+        null
+    ],
+    "ramatroban": [
+        0.030692163,
+        null
+    ],
+    "ambenonium": [
+        0.030230037,
+        null
+    ],
+    "nicergoline": [
+        0.030227597,
+        null
+    ],
+    "proxyphylline": [
+        0.029948537,
+        null
+    ],
+    "Oxybuprocaine": [
+        0.029872222,
+        null
+    ],
+    "arotinolol": [
+        0.02888186,
+        null
+    ],
+    "Istradefylline": [
+        0.028528111,
+        null
+    ],
+    "algestone-acetophenide": [
+        0.028196483,
+        null
+    ],
+    "estradiol-valerate": [
+        0.027968734,
+        null
+    ],
+    "Motolimod": [
+        0.025524857,
+        null
+    ],
+    "Epoprostenol": [
+        0.025477923,
+        null
+    ],
+    "Fesoterodine": [
+        0.025374135,
+        null
+    ],
+    "Hydroxychloroquine Sulfate": [
+        0.02374397,
+        null
+    ],
+    "moracizine": [
+        0.023087921,
+        null
+    ],
+    "phenelzine": [
+        0.017574621,
+        null
+    ],
+    "Artesunate": [
+        0.017492519,
+        null
+    ],
+    "Venlafaxine": [
+        0.017340539,
+        null
+    ],
+    "Dabrafenib": [
+        0.017133606,
+        null
+    ],
+    "amcinonide": [
+        0.015386998,
+        null
+    ],
+    "Calpeptin": [
+        0.015116982,
+        null
+    ],
+    "debrisoquin": [
+        0.014945038,
+        null
+    ],
+    "tedizolid": [
+        0.013532418,
+        null
+    ],
+    "Halobetasol propionate": [
+        0.01337687,
+        null
+    ],
+    "Dexpramipexole": [
+        0.013028742,
+        null
+    ],
+    "Elafibranor": [
+        0.013002455,
+        null
+    ],
+    "atorvastatin calcium, Lipitor": [
+        0.011825555,
+        null
+    ],
+    "diloxanide": [
+        0.011551546,
+        null
+    ],
+    "epinastine": [
+        0.011407395,
+        null
+    ],
+    "loteprednol": [
+        0.010725254,
+        null
+    ],
+    "primaquine": [
+        0.01032984,
+        null
+    ],
+    "Triamcinolone acetonide": [
+        0.009721256,
+        null
+    ],
+    "Terguride": [
+        0.007538756,
+        null
+    ],
+    "trelagliptin": [
+        0.007268549,
+        null
+    ],
+    "fomocaine": [
+        0.007054486,
+        null
+    ],
+    "Amiodarone": [
+        0.005702779,
+        null
+    ],
+    "fenoldopam": [
+        0.005009192,
+        null
+    ],
+    "olopatadine": [
+        0.004355337,
+        null
+    ],
+    "Ramosetron": [
+        0.003290929,
+        null
+    ],
+    "fosamprenavir": [
+        0.002413805,
+        null
+    ],
+    "SB239063": [
+        0.00226331,
+        null
+    ],
+    "octisalate": [
+        0.001790286,
+        null
+    ],
+    "Tafamidis meglumine": [
+        0.000640512,
+        null
+    ],
+    "Pimecrolimus": [
+        -0.001979153,
+        null
+    ],
+    "nizofenone": [
+        -0.002066302,
+        null
+    ],
+    "oxaliplatin": [
+        -0.002373846,
+        null
+    ],
+    "Reversine": [
+        -0.002411068,
+        null
+    ],
+    "Eicosapentaenoic Acid": [
+        -0.00259073,
+        null
+    ],
+    "Indocyanine green": [
+        -0.002918091,
+        null
+    ],
+    "Fluvastatin (sodium salt hydrate)": [
+        -0.003074977,
+        null
+    ],
+    "NSC 632839 hydrochloride": [
+        -0.003244109,
+        null
+    ],
+    "Ebastine": [
+        -0.003271799,
+        null
+    ],
+    "Z-FA-FMK": [
+        -0.003964571,
+        null
+    ],
+    "Larotrectinib": [
+        -0.004084925,
+        null
+    ],
+    "Piperacillin": [
+        -0.005773565,
+        null
+    ],
+    "benproperine": [
+        -0.007389883,
+        null
+    ],
+    "AG-490": [
+        -0.008306563,
+        null
+    ],
+    "LY2157299": [
+        -0.008730417,
+        null
+    ],
+    "Valdecoxib": [
+        -0.009109438,
+        null
+    ],
+    "althiazide": [
+        -0.009277968,
+        null
+    ],
+    "cilnidipine": [
+        -0.010442081,
+        null
+    ],
+    "isoxsuprine": [
+        -0.011099921,
+        null
+    ],
+    "Aclidinium": [
+        -0.011836552,
+        null
+    ],
+    "Tilorone dihydrochloride": [
+        -0.012851809,
+        null
+    ],
+    "Milrinone": [
+        -0.013357672,
+        null
+    ],
+    "Tiopronin": [
+        -0.014352721,
+        null
+    ],
+    "Cyclobenzaprine": [
+        -0.015861751,
+        null
+    ],
+    "Nitrofural": [
+        -0.01646868,
+        null
+    ],
+    "Phenazopyridine": [
+        -0.016553454,
+        null
+    ],
+    "Ponatinib": [
+        -0.016668067,
+        null
+    ],
+    "Omeprazole": [
+        -0.018221513,
+        null
+    ],
+    "floctafenine": [
+        -0.020322317,
+        null
+    ],
+    "allantoin": [
+        -0.020620486,
+        null
+    ],
+    "(S)-crizotinib": [
+        -0.022433061,
+        null
+    ],
+    "etazolate": [
+        -0.024878806,
+        null
+    ],
+    "Triprolidine": [
+        -0.025230379,
+        null
+    ],
+    "chloropyramine": [
+        -0.025257465,
+        null
+    ],
+    "Chloramphenicol palmitate": [
+        -0.027023752,
+        null
+    ],
+    "Darifenacin": [
+        -0.028178597,
+        null
+    ],
+    "Dronedarone": [
+        -0.028439917,
+        null
+    ],
+    "metergoline": [
+        -0.028500778,
+        null
+    ],
+    "Ibrutinib": [
+        -0.028967561,
+        null
+    ],
+    "Ciclesonide": [
+        -0.029037239,
+        null
+    ],
+    "Pimozide": [
+        -0.02917237,
+        null
+    ],
+    "Ro-20-1724": [
+        -0.031603697,
+        null
+    ],
+    "Dabigatran etexilate": [
+        -0.034306851,
+        null
+    ],
+    "Olmutinib": [
+        -0.035082833,
+        null
+    ],
+    "Ospemifene": [
+        -0.035304114,
+        null
+    ],
+    "Nisoldipine": [
+        -0.035697509,
+        null
+    ],
+    "ceramide": [
+        -0.036480285,
+        null
+    ],
+    "PD-169316": [
+        -0.03804263,
+        null
+    ],
+    "Bosutinib": [
+        -0.038337888,
+        null
+    ],
+    "pitavastatin": [
+        -0.03927684,
+        null
+    ],
+    "elbasvir": [
+        -0.042274297,
+        null
+    ],
+    "Triflupromazine": [
+        -0.044501681,
+        null
+    ],
+    "Clofarabine": [
+        -0.046266114,
+        null
+    ],
+    "Daunorubicin": [
+        -0.04683485,
+        null
+    ],
+    "Danoprevir": [
+        -0.046861535,
+        null
+    ],
+    "Aklomide": [
+        -0.047221368,
+        null
+    ],
+    "Bazedoxifene": [
+        -0.049626542,
+        null
+    ],
+    "etonogestrel": [
+        -0.051481701,
+        null
+    ],
+    "SF2523": [
+        -0.051891151,
+        null
+    ],
+    "pranlukast": [
+        -0.052687708,
+        null
+    ],
+    "Rupatadine": [
+        -0.052874617,
+        null
+    ],
+    "Dapoxetine": [
+        -0.054091696,
+        null
+    ],
+    "tianeptine": [
+        -0.057296104,
+        null
+    ],
+    "pinaverium": [
+        -0.060032877,
+        null
+    ],
+    "penbutolol": [
+        -0.063893927,
+        null
+    ],
+    "metaraminol": [
+        -0.064775969,
+        null
+    ],
+    "UK 5099": [
+        -0.068371073,
+        null
+    ],
+    "lubiprostone": [
+        -0.069042635,
+        null
+    ],
+    "GSK256066": [
+        -0.069138761,
+        null
+    ],
+    "SB202190": [
+        -0.072521049,
+        null
+    ],
+    "almitrine": [
+        -0.074506727,
+        null
+    ],
+    "Benzethonium": [
+        -0.075417693,
+        null
+    ],
+    "Lovastatin": [
+        -0.076037564,
+        null
+    ],
+    "chiniofon": [
+        -0.078230647,
+        null
+    ],
+    "Letermovir": [
+        -0.078272694,
+        null
+    ],
+    "Neratinib": [
+        -0.078563308,
+        null
+    ],
+    "clofazimine": [
+        -0.078746304,
+        null
+    ],
+    "Resiquimod": [
+        -0.079090492,
+        null
+    ],
+    "beta-CCB": [
+        -0.080229809,
+        null
+    ],
+    "Prednisolone sodium phosphate": [
+        -0.081310258,
+        null
+    ],
+    "gidazepam": [
+        -0.081525487,
+        null
+    ],
+    "etoposide phosphate": [
+        -0.083096256,
+        null
+    ],
+    "Syk inhibitor II": [
+        -0.08387831,
+        null
+    ],
+    "perospirone": [
+        -0.085018205,
+        null
+    ],
+    "obidoxime": [
+        -0.086451342,
+        null
+    ],
+    "Ibudilast": [
+        -0.08900811,
+        null
+    ],
+    "Talazoparib": [
+        -0.090471444,
+        null
+    ],
+    "flumequine": [
+        -0.091407702,
+        null
+    ],
+    "valrubicin": [
+        -0.09796426,
+        null
+    ],
+    "Pexmetinib": [
+        -0.104159493,
+        null
+    ],
+    "Uroxatral": [
+        -0.1046502,
+        null
+    ],
+    "PD168393": [
+        -0.108179068,
+        null
+    ],
+    "Vorinostat": [
+        -0.110523423,
+        null
+    ],
+    "perhexiline": [
+        -0.11110362,
+        null
+    ],
+    "ibuproxam": [
+        -0.114096101,
+        null
+    ],
+    "R 7050": [
+        -0.115520708,
+        null
+    ],
+    "Ribociclib": [
+        -0.116382725,
+        null
+    ],
+    "Nilotinib": [
+        -0.120974018,
+        null
+    ],
+    "MLN 2480": [
+        -0.122517261,
+        null
+    ],
+    "Melphalan": [
+        -0.122807727,
+        null
+    ],
+    "Pyronaridine": [
+        -0.124379617,
+        null
+    ],
+    "SR-1078": [
+        -0.133346058,
+        null
+    ],
+    "Betahistine": [
+        -0.133492179,
+        null
+    ],
+    "lercanidipine": [
+        -0.142565623,
+        null
+    ],
+    "Diaveridine": [
+        -0.143306434,
+        null
+    ],
+    "phenylpiracetam": [
+        -0.150703778,
+        null
+    ],
+    "ARQ 621": [
+        -0.153413796,
+        null
+    ],
+    "Itraconazole": [
+        -0.156350698,
+        null
+    ],
+    "Pyrithione": [
+        -0.15936092,
+        null
+    ],
+    "DDR1-IN-1": [
+        -0.162965234,
+        null
+    ],
+    "Cilomilast": [
+        -0.166079485,
+        null
+    ],
+    "SKF-86002": [
+        -0.168539666,
+        null
+    ],
+    "Halofuginone": [
+        -0.170286576,
+        null
+    ],
+    "noretynodrel": [
+        -0.171831475,
+        null
+    ],
+    "YO-01027": [
+        -0.172615503,
+        null
+    ],
+    "Ataluren": [
+        -0.173232979,
+        null
+    ],
+    "GSK429286A": [
+        -0.179877338,
+        null
+    ],
+    "Telmisartan": [
+        -0.2007569,
+        null
+    ],
+    "LGX818": [
+        -0.202185774,
+        null
+    ],
+    "Roflumilast": [
+        -0.207816832,
+        null
+    ],
+    "Rifapentine": [
+        -0.210036234,
+        null
+    ],
+    "CH5424802": [
+        -0.210392932,
+        null
+    ],
+    "LB42708": [
+        -0.213923127,
+        null
+    ],
+    "Prostaglandin E2": [
+        -0.216514418,
+        null
+    ],
+    "Abemaciclib": [
+        -0.21842293,
+        null
+    ],
+    "Epirubicin": [
+        -0.218853091,
+        null
+    ],
+    "brigatinib": [
+        -0.242558599,
+        null
+    ],
+    "Bafilomycin A1": [
+        -0.244251074,
+        null
+    ],
+    "mitomycin-c": [
+        -0.246040465,
+        null
+    ],
+    "Limaprost alfadex": [
+        -0.253733862,
+        null
+    ],
+    "RG-7112": [
+        -0.258269875,
+        null
+    ],
+    "Amsacrine": [
+        -0.258900021,
+        null
+    ],
+    "Midostaurin": [
+        -0.278418007,
+        null
+    ],
+    "Tipifarnib": [
+        -0.281640843,
+        null
+    ],
+    "KPT-330": [
+        -0.291196589,
+        null
+    ],
+    "PF-477736": [
+        -0.297211417,
+        null
+    ],
+    "Palbociclib": [
+        -0.302797681,
+        null
+    ],
+    "Navitoclax": [
+        -0.329909753,
+        null
+    ],
+    "ABT-737": [
+        -0.338549264,
+        null
+    ],
+    "Bafetinib": [
+        -0.354195378,
+        null
+    ],
+    "CZ415": [
+        -0.368640504,
+        null
+    ],
+    "harringtonine": [
+        -0.370702969,
+        null
+    ],
+    "dinoprost": [
+        -0.377947283,
+        null
+    ],
+    "SB431542": [
+        -0.386653817,
+        null
+    ],
+    "PCI-24781": [
+        -0.394378725,
+        null
+    ],
+    "epirubicin": [
+        -0.416221271,
+        null
+    ],
+    "Licochalcone A": [
+        -0.430014544,
+        null
+    ],
+    "Belinostat": [
+        -0.445280801,
+        null
+    ],
+    "Torin 1": [
+        -0.449084803,
+        null
+    ],
+    "clobetasone-butyrate": [
+        -0.451763268,
+        null
+    ],
+    "MI-773": [
+        -0.464171416,
+        null
+    ],
+    "I-BET151": [
+        -0.477417978,
+        null
+    ],
+    "Colchicine": [
+        -0.51381283,
+        null
+    ],
+    "Topotecan": [
+        -0.527123422,
+        null
+    ],
+    "Lorlatinib": [
+        -0.566671778,
+        null
+    ],
+    "LY3023414": [
+        -0.568628971,
+        null
+    ],
+    "RKI-1447": [
+        -0.574900447,
+        null
+    ],
+    "LY-364947": [
+        -0.584329906,
+        null
+    ],
+    "Bardoxolone methyl": [
+        -0.599793804,
+        null
+    ],
+    "QNZ": [
+        -0.637505391,
+        null
+    ],
+    "SB525334": [
+        -0.646463424,
+        null
+    ],
+    "vinblastine": [
+        -0.648847185,
+        null
+    ],
+    "PD173955": [
+        -0.677392325,
+        null
+    ],
+    "PD0325901": [
+        -0.678192777,
+        null
+    ],
+    "A 83-01": [
+        -0.698746766,
+        null
+    ],
+    "I-BET-762": [
+        -0.709792934,
+        null
+    ],
+    "PF-562271": [
+        -0.719331633,
+        null
+    ],
+    "Givinostat": [
+        -0.723118495,
+        null
+    ],
+    "AZD7762": [
+        -0.732965131,
+        null
+    ],
+    "homoharringtonine": [
+        -0.758737731,
+        null
+    ],
+    "GW788388": [
+        -0.766689127,
+        null
+    ],
+    "AZD8330": [
+        -0.770226925,
+        null
+    ],
+    "Zotarolimus": [
+        -0.771809875,
+        null
+    ],
+    "Avatrombopag": [
+        -0.773881931,
+        null
+    ],
+    "17-AAG": [
+        -0.775037236,
+        null
+    ],
+    "CHEMBL410295": [
+        -0.787125029,
+        null
+    ],
+    "LMK-235": [
+        -0.796120802,
+        null
+    ],
+    "BGT226": [
+        -0.825546813,
+        null
+    ],
+    "Panobinostat": [
+        -0.829257673,
+        null
+    ],
+    "NVP-TAE 684": [
+        -0.848537993,
+        null
+    ],
+    "everolimus": [
+        -0.86619848,
+        null
+    ],
+    "Mitoxantrone": [
+        -0.874166874,
+        null
+    ],
+    "Temsirolimus": [
+        -0.875296983,
+        null
+    ],
+    "Gemcitabine elaidate": [
+        -0.882083147,
+        null
+    ],
+    "CPI-203": [
+        -0.893725396,
+        null
+    ],
+    "PF-04929113": [
+        -0.896107921,
+        null
+    ],
+    "Rapamycin": [
+        -0.901663833,
+        null
+    ],
+    "Ridaforolimus": [
+        -0.918671346,
+        null
+    ],
+    "Ro3280": [
+        -0.926677775,
+        null
+    ],
+    "Vincristine": [
+        -0.927200423,
+        null
+    ],
+    "Gedatolisib": [
+        -0.933456915,
+        null
+    ],
+    "GSK-1070916": [
+        -0.946246407,
+        null
+    ],
+    "Flavopiridol": [
+        -0.955576321,
+        null
+    ],
+    "GSK2126458": [
+        -0.957927587,
+        null
+    ],
+    "Anagrelide": [
+        -0.958613902,
+        null
+    ],
+    "AMG-900": [
+        -0.959571003,
+        null
+    ],
+    "Dasatinib": [
+        -0.962906481,
+        null
+    ],
+    "Ispinesib": [
+        -0.971494523,
+        null
+    ],
+    "Gemcitabine hydrochloride": [
+        -0.977143302,
+        null
+    ],
+    "INK 128": [
+        -0.977818371,
+        null
+    ],
+    "Ixabepilone": [
+        -0.979818322,
+        null
+    ],
+    "Filanesib": [
+        -0.980832631,
+        null
+    ],
+    "BI 2536": [
+        -0.981655243,
+        null
+    ],
+    "MLN2238": [
+        -0.98208119,
+        null
+    ],
+    "belotecan": [
+        -0.982525324,
+        null
+    ],
+    "vactosertib": [
+        -0.984482393,
+        null
+    ],
+    "GSK461364": [
+        -0.98507326,
+        null
+    ],
+    "Verdinexor": [
+        -0.985792237,
+        null
+    ],
+    "CEP-18770": [
+        -0.987136203,
+        null
+    ],
+    "Epothilone B": [
+        -0.987287903,
+        null
+    ],
+    "Bortezomib": [
+        -0.987363475,
+        null
+    ],
+    "RepSox": [
+        -0.987831495,
+        null
+    ],
+    "Podophyllotoxin": [
+        -0.989313317,
+        null
+    ],
+    "(S)-10-Hydroxycamptothecin": [
+        -0.98972902,
+        null
+    ],
+    "Camptothecin": [
+        -0.990050026,
+        null
+    ],
+    "Carfilzomib": [
+        -0.990113223,
+        null
+    ],
+    "KPT-185": [
+        -0.991793944,
+        null
+    ],
+    "Dactolisib": [
+        -0.993744295,
+        null
+    ],
+    "Epothilone A": [
+        -0.995333644,
+        null
+    ],
+    "Docetaxel": [
+        -0.996817071,
+        null
+    ],
+    "romidepsin": [
+        -0.997151925,
+        null
+    ],
+    "Cabazitaxel": [
+        -0.997694223,
+        null
+    ],
+    "Ingenol-3-angelate": [
+        -0.999155179,
+        null
+    ]
+}

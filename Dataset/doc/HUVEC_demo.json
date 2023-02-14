@@ -1,0 +1,47 @@
+{
+    "healthy": [
+        0,
+        2756,
+        550322
+    ],
+    "storm-severe": [
+        1,
+        2780,
+        552742
+    ],
+    "GS-441524": [
+        2,
+        36,
+        7161
+    ],
+    "Remdesivir (GS-5734)": [
+        3,
+        36,
+        7188
+    ],
+    "Chloroquine": [
+        4,
+        36,
+        7158
+    ],
+    "Hydroxychloroquine Sulfate": [
+        5,
+        36,
+        7115
+    ],
+    "Baricitinib": [
+        6,
+        36,
+        7176
+    ],
+    "Ruxolitinib": [
+        7,
+        36,
+        7189
+    ],
+    "Tofacitinib": [
+        8,
+        24,
+        4785
+    ]
+}
