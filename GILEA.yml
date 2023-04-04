@@ -1,4 +1,4 @@
-name: LEA
+name: GILEA
 channels:
   - pytorch
   - nvidia

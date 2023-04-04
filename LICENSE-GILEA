@@ -1,4 +1,4 @@
-The following licenses apply to the LEA repository.
+The following licenses apply to the GILEA repository.
 
 The software of StyleGAN2 and StyleGAN3 are provided by the copyright holders under
 LICENSE-NVIDIA.
@@ -8,7 +8,7 @@ The software of restyle-encoder and StyleGAN3-editing are provided by the copyri
 
 The remaining software:
 
-Copyright (c) 2022, the authors of 'LEA: Latent Eigenvalue Analysis in application to high-throughput phenotypic profiling'
+Copyright (c) 2022, the authors of 'GILEA: GAN Inversion-enabled latent eigenvalue analysis for phenome profiling and editing'
 All rights reserved under LICENSE-CC-BY-NC-SA-4.0.
 
 
