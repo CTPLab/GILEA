@@ -2,17 +2,17 @@
 Official PyTorch implementation for the following manuscript:
 
 
-[LEA: Latent Eigenvalue Analysis in application to high-throughput phenotypic profiling](https://www.biorxiv.org/content/10.1101/2023.02.10.528026v1.full.pdf), Biorxiv 2023. \
+[GILEA: GAN Inversion-enabled latent eigenvalue analysis for phenome profiling and editing](https://www.biorxiv.org/content/10.1101/2023.02.10.528026v1.full.pdf), Biorxiv 2023. \
 Jiqing Wu and Viktor H. Koelzer.
 
-> Understanding the phenotypic characteristics of cells in culture and detecting perturbations introduced by drug stimulation is of great importance for biomedical research. However, a thorough and comprehensive analysis of phenotypic heterogeneity is challenged by the complex nature of cell-level data. Here, we propose a novel Latent Eigenvalue Analysis (LEA) framework and apply it to high-throughput phenotypic profiling with single-cell and single-organelle granularity. Using the publicly available SARS-CoV-2 datasets stained with the multiplexed fluorescent cell-painting protocol, we demonstrate the power of the LEA approach in the investigation of phenotypic changes induced by more than 1800 drug compounds. As a result, LEA achieves a robust quantification of phenotypic changes introduced by drug treatment. Moreover, this quantification can be biologically supported by simulating clearly observable phenotypic transitions in a broad spectrum of use cases. Lastly, we describe the LEA pipeline in detail and illustrate the application to further use cases in the biomedical image domain, underlining the domain-agnostic facet of our methodological approach. In conclusion, LEA represents a new and broadly applicable approach for quantitative and interpretable analysis of biomedical image data. 
+> Modeling heterogeneous disease states by data-driven methods has great potential to advance biomedical research. However, a comprehensive analysis of phenotypic heterogeneity is often challenged by the complex nature of biomedical datasets and emerging imaging methodologies. Here, we propose a novel GAN Inversion-enabled Latent Eigenvalue Analysis (GILEA) framework and apply it to phenome profiling and editing. As key use cases for fluorescence and natural imaging, we demonstrate the power of GILEA using publicly available SARS-CoV-2 datasets stained with the multiplexed fluorescence cell-painting protocol as well as real-world medical images of common skin lesions captured by dermoscopy. The quantitative results of GILEA can be biologically supported by editing latent representations and simulating dynamic phenotype transitions between physiological and pathological states. In conclusion, GILEA represents a new and broadly applicable approach to the quantitative and interpretable analysis of biomedical image data. 
 
 
 
 <p align="center">
 <img src="model.png" width="800px"/>  
 <br>
-The overall model illustration of the proposed LEA approach.        
+The overall model illustration of the proposed GILEA approach.        
 </p>
 
 
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/12932355/208067600-e43ecbe3-41be-4784-
 ## Prerequisites
 This implementation is mainly dependent on two backends:  [Restyle](https://github.com/yuval-alaluf/restyle-encoder) and [WILDS](https://github.com/p-lambda/wilds). This suggests that, if the dependencies for Restyle and Wilds are installed, then the environment of our code is correctly configured.
 
-Alternatively, to create the conda environment for this repo please see [LEA.yml](LEA.yml),
+Alternatively, to create the conda environment for this repo please see [GILEA.yml](GILEA.yml),
 where all the necessary packages required by this repo are included in the list.
 
 ## Data Preparation
@@ -154,7 +154,7 @@ Assume the current work directory is ../restyle-encoder/, we run the following c
 
 
 ## Latent Eigenvalue Analysis 
-With the above reconstruction models in hand, we run the LEA baseline as follows:
+With the above reconstruction models in hand, we run the analysis as follows:
 ``` 
     # Compute the necessary stats
     python -m main \
@@ -195,7 +195,7 @@ This repository is built upon [Restyle-encoder](https://https://github.com/yuval
 We would also like to thank all the authors contributing to the HAM10000 and RxRx19 projects.
 
 ## License
-The copyright license of this repository is specified with the LICENSE-LEA.
+The copyright license of this repository is specified with the LICENSE-GILEA.
 
 The copyright license of HAM10000 is specified with the License-CC-BY-NC-SA 4.0.
 
