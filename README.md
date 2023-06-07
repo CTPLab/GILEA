@@ -18,24 +18,16 @@ The overall model illustration of the proposed GILEA approach.
 
 ## Demo 
 
-
-https://github.com/CTPLab/GILEA/assets/12932355/757389e9-58fc-45fe-b7c1-c53b0233336d
-
+https://github.com/CTPLab/GILEA/assets/12932355/3727dc4e-6909-46c8-a37b-dcea4e3e66c1
 <p align="center"> The cellular transition of mock cells for VERO dataset </p>
 
-
-https://github.com/CTPLab/GILEA/assets/12932355/0ae1853d-adf6-4db5-8ae8-52559af9fed4
-
+https://github.com/CTPLab/GILEA/assets/12932355/66154e9c-f510-4185-9d78-91018d814e81
 <p align="center"> The cellular transition of mock cells for HRCE dataset </p>
 
-
-https://github.com/CTPLab/GILEA/assets/12932355/385104a1-4abc-446b-9ce8-d68395c9b9fe
-
+https://github.com/CTPLab/GILEA/assets/12932355/bdb4ceef-e232-4a58-970d-db676f46fd34
 <p align="center"> The cellular transition of healthy cells for HUVEC dataset </p>
 
-
-https://github.com/CTPLab/GILEA/assets/12932355/f1dd6c5e-4eb3-404e-90df-6c425a288fef
-
+https://github.com/CTPLab/GILEA/assets/12932355/cece2976-669c-4ffe-b1b0-5d51fee5090d
 <p align="center"> The skin lesion transition of nv samples for HAM10000  dateset </p>
 
 ## Prerequisites
