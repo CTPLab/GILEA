@@ -1,11 +1,11 @@
-# Code Repostiory
+# Code Repository
 Official PyTorch implementation for the following manuscript:
 
 
-[GILEA: GAN Inversion-enabled latent eigenvalue analysis for phenome profiling and editing](https://www.biorxiv.org/content/10.1101/2023.02.10.528026v3.full.pdf), Biorxiv 2023. \
+[In silico phenome profiling and editing using GAN Inversion](https://www.biorxiv.org/content/10.1101/2023.02.10.528026v3.full.pdf), Biorxiv 2023. \
 Jiqing Wu and Viktor H. Koelzer.
 
-> Modeling heterogeneous disease states by data-driven methods has great potential to advance biomedical research. However, a comprehensive analysis of phenotypic heterogeneity is often challenged by the complex nature of biomedical datasets and emerging imaging methodologies. Here, we propose a novel GAN Inversion-enabled Latent Eigenvalue Analysis (GILEA) framework and apply it to phenome profiling and editing. As key use cases for fluorescence and natural imaging, we demonstrate the power of GILEA using publicly available SARS-CoV-2 datasets stained with the multiplexed fluorescence cell-painting protocol as well as real-world medical images of common skin lesions captured by dermoscopy. The quantitative results of GILEA can be biologically supported by editing latent representations and simulating dynamic phenotype transitions between physiological and pathological states. In conclusion, GILEA represents a new and broadly applicable approach to the quantitative and interpretable analysis of biomedical image data. 
+> Modeling heterogeneous disease states by data-driven methods has great potential to advance biomedical research. However, a comprehensive analysis of phenotypic heterogeneity is often challenged by the complex nature of biomedical datasets and emerging imaging methodologies. Here, we propose a novel GAN Inversion-enabled Latent Eigenvalue Analysis (GILEA) framework and apply it to in silico phenome profiling and editing. As key use cases for fluorescence and natural imaging, we demonstrate the power of GILEA using publicly available SARS-CoV-2 datasets stained with the multiplexed fluorescence cell-painting protocol as well as real-world medical images of common skin lesions captured by dermoscopy. The quantitative results of GILEA can be biologically supported by editing latent representations and simulating dynamic phenotype transitions between physiological and pathological states. In conclusion, GILEA represents a new and broadly applicable approach to the quantitative and interpretable analysis of biomedical image data. 
 
 
 
